@@ -1,10 +1,12 @@
 import './App.css';
+import Dashboard from './Components/Dashboard';
+import AddFriends from './Components/AddFriends';
 
 function App() {
   return (
     <div className="App">
-      Test1234
-      <button className="btn">Click Me</button>
+      <Dashboard/>
+      <AddFriends/>
     </div>
   );
 }

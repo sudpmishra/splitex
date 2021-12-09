@@ -28,6 +28,81 @@
   color: #61dafb;
 }
 
+.top{
+  text-align: left;
+  padding: 50px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.btn1{
+  background-color: red;
+  border-color: red;
+  padding: 20px 40px;
+  border-radius: 5%;
+  font-weight: bold;
+}
+.btn2{
+  background-color: rgb(61, 240, 91);
+  border-color: rgb(61, 240, 91);
+  padding: 20px 40px;
+  border-radius: 5%;
+  font-weight: bold;
+}
+
+.midbox{
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+
+.friends{
+  text-align: left;
+  padding: 20px;
+  border-right: 2px solid black;
+}
+
+.friends-top{
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-btn{
+  border-radius: 50% !important; 
+}
+
+.plus1{
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+  padding: 10px 0;
+}
+
+.searchbox{
+  display: flex;
+  background-color: rgb(197, 190, 190);
+}
+
+.input-btn{
+  background-color: rgb(197, 190, 190);
+  border-color: rgb(197, 190, 190);
+}
+
+input[type=text] {
+  background-color: rgb(197, 190, 190);
+  color: rgb(218, 22, 22);
+  border-color: rgb(197, 190, 190);
+}
+
+.plus2{
+  font-weight: bold;
+  padding: 0 15px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
