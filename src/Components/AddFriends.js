@@ -12,13 +12,17 @@ function AddFriends() {
     //function to add friend
     const addFriend = () => {
         //create copy of friendList state and add new name to the copy
+        // friendList = [{name: 'Tim'}]
         let updatedFriendList = [...friendList, { name: inputName }]
+        // updatedFriendList = [{name: 'tim'}, {name: 'jack'}]
 
         //set the copy as original friendlist state
         setFriendList(updatedFriendList)
+        //friendlist =  [{name: 'tim'}, {name: 'jack'}]
 
         //save the copy in string format to localstorage
         localStorage.setItem("friend-list", JSON.stringify(updatedFriendList))
+        //localstorage['friend-list'] =  [{name: 'tim'}, {name: 'jack'}]
     }
 
     // change showInput variable to negative of what it was (ie true if false and false if true)
