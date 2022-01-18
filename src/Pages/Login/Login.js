@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router'
+import http from '../../Utils/http'
 import "./Login.css"
 export default function Login() {
     const [email, setEmail] = useState("")
@@ -17,7 +18,15 @@ export default function Login() {
     const [isLogin, setIsLogin] = useState(true)
     const navigate = useNavigate()
     const login = () => {
-        navigate("/")
+        // navigate("/")
+        http.post("login", {
+            "name": email,
+            "password": password
+        })
+            .then((res) => {
+                localStorage.setItem("auth_token",res.accessToken)
+                localStorage.setItem("refresh_token",res.refreshToken)
+            })
     }
     return (
         <div className='login-page'>

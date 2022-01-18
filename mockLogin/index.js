@@ -23,6 +23,9 @@ app.post('/login', (req, res) => {
         const token = jwt.sign({ user }, process.env.ACCESS_TOKEN_SECRET)
         res.json({ accessToken: token, refreshToken: '' })
     }
+    else (
+        res.sendStatus(401)
+    )
 })
 
 function authenticateToken(req, res, next) {
