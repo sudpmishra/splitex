@@ -24,13 +24,15 @@ export default function Login() {
             <div className="login-container">
                 <h2 className="title">{isLogin ? "LOGIN" : "REGISTER"}</h2>
                 <div className="login-access">
-                    {!isLogin && <input type="text" placeholder='Full Name' value={userName} onChange={changeUserName} />}
-                    <input type="text" placeholder='Email' value={email} onChange={changeEmail} />
-                    <input type="password" placeholder='Password' value={password} onChange={changepassword} />
+                    <div className="flex-box">
+                        {!isLogin && <input type="text" placeholder='Full Name' value={userName} onChange={changeUserName} />}
+                        <input type="text" placeholder='Email' value={email} onChange={changeEmail} />
+                        <input type="password" placeholder='Password' value={password} onChange={changepassword} />
+                    </div>
                     <button className="login-btn" onClick={login}>LOGIN</button>
-                    <a href="">Forgot Password?</a>
-                    {isLogin && <button onClick={e => setIsLogin(false)}>Sign Up</button>}
-                    {!isLogin && <button onClick={e => setIsLogin(true)}>Sign In</button>}
+                    <span className='forgot-password'>Forgot Password?</span>
+                    {isLogin && <span className='no-account'>Dont have an account? <span className='sign-up' onClick={e => setIsLogin(false)}>Sign Up</span></span>}
+                    {!isLogin && <span className='no-account'>Already have an account? <span className='sign-up' onClick={e => setIsLogin(true)}>Sign In</span></span>}
                 </div>
             </div>
         </div>

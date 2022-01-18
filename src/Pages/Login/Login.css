@@ -28,11 +28,19 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 35px;
+    padding: 20x;
+}
+
+.login-access .flex-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
 }
 
 .login-access input {
-    margin: 10px;
+    margin: 25px;
     border: none;
     border-bottom: 1px solid #000000;
     background-color: #f9f8f8;
@@ -78,15 +86,21 @@
     bottom: -40px;
 }
 
-.login-access a {
-    margin: 10px 60px;
+.login-access .forgot-password, .login-access .sign-up {
+    margin: 10px 4px;
     color: #FF661F;
-    font-size: small;
+    font-size: 10px;
     text-decoration: underline;
+    cursor: pointer;
+}
+
+.login-access .no-account {
+    font-size: 10px;
 }
 
 .login-access button {
     background-color: #FF661F;
     color: #f9f8f8;
     border: #f9f8f8;
+    margin-top: 40px;
 }
