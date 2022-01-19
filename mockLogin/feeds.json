@@ -1,0 +1,3562 @@
+[
+    {
+        "id": "61e856432080e0599a9d57b7",
+        "title": "Pool",
+        "date": "09-01-2022",
+        "amount": 236.29,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643f1fa8c330a7c39a7",
+        "title": "Lunch",
+        "date": "21-01-2022",
+        "amount": 333.01,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564371f38c6327dc74e3",
+        "title": "Movie",
+        "date": "15-01-2022",
+        "amount": 154.85,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856436da434d96799a488",
+        "title": "Shopping",
+        "date": "02-01-2022",
+        "amount": 185.57,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856435dc749957ee35d0a",
+        "title": "Drinks",
+        "date": "24-01-2022",
+        "amount": 387.77,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643b91a9373e1f46184",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 187.11,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643496f609ce0d1af5b",
+        "title": "Movie",
+        "date": "30-01-2022",
+        "amount": 483.13,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856436fdcda842d8f9184",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 16.61,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643d86ad95c56833f2a",
+        "title": "Movie",
+        "date": "08-01-2022",
+        "amount": 118.65,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856437326f02c125b4e71",
+        "title": "Shopping",
+        "date": "07-01-2022",
+        "amount": 14.84,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643663f37af1f07f608",
+        "title": "Drinks",
+        "date": "12-01-2022",
+        "amount": 61.55,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856439921cd0fa20c6f24",
+        "title": "Shopping",
+        "date": "18-01-2022",
+        "amount": 466.22,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856430d84fb0f36e22fb8",
+        "title": "Drinks",
+        "date": "26-01-2022",
+        "amount": 76.35,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564303f79e9aeef1d3a0",
+        "title": "Lunch",
+        "date": "25-01-2022",
+        "amount": 392.46,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643be8ac5231c88b7d5",
+        "title": "Drinks",
+        "date": "09-01-2022",
+        "amount": 459.98,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643483dd062d701e0e8",
+        "title": "Movie",
+        "date": "11-01-2022",
+        "amount": 329.74,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856432c8923eab2e138f1",
+        "title": "Lunch",
+        "date": "01-01-2022",
+        "amount": 37.13,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856430186f1ee8df8f1c2",
+        "title": "Shopping",
+        "date": "05-01-2022",
+        "amount": 457.2,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564335d04e57d6858c38",
+        "title": "Shopping",
+        "date": "06-01-2022",
+        "amount": 128.42,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643a4a06dabb4e3f02d",
+        "title": "Shopping",
+        "date": "25-01-2022",
+        "amount": 325.49,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856435c13385262fc47fb",
+        "title": "Movie",
+        "date": "20-01-2022",
+        "amount": 458.62,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643a8cf492627a2608b",
+        "title": "Lunch",
+        "date": "30-01-2022",
+        "amount": 182.22,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643540db3c22cb659a6",
+        "title": "Drinks",
+        "date": "10-01-2022",
+        "amount": 440.26,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643e3b518fe9475894a",
+        "title": "Lunch",
+        "date": "15-01-2022",
+        "amount": 234.05,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564322d8255bea1fb252",
+        "title": "Movie",
+        "date": "01-01-2022",
+        "amount": 193.16,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643faabd6e675a03a55",
+        "title": "Shopping",
+        "date": "20-01-2022",
+        "amount": 226.55,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856434421f01a4b86d569",
+        "title": "Movie",
+        "date": "16-01-2022",
+        "amount": 43.35,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564371ac20ef5b47041f",
+        "title": "Drinks",
+        "date": "02-01-2022",
+        "amount": 115.7,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643bb7e0e846217b206",
+        "title": "Shopping",
+        "date": "28-01-2022",
+        "amount": 298.96,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643ce267f2a59e311d9",
+        "title": "Movie",
+        "date": "03-01-2022",
+        "amount": 400.18,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856439053b1ba543fc7c2",
+        "title": "Movie",
+        "date": "31-01-2022",
+        "amount": 481.25,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643098d492c90a83126",
+        "title": "Movie",
+        "date": "22-01-2022",
+        "amount": 232.54,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856433bcf19c860a41dd7",
+        "title": "Shopping",
+        "date": "14-01-2022",
+        "amount": 33.83,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564339609361c1b9d5a8",
+        "title": "Shopping",
+        "date": "17-01-2022",
+        "amount": 416.47,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643b403f3487331f6b3",
+        "title": "Pool",
+        "date": "20-01-2022",
+        "amount": 359.89,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856438e2bd10a1c8a2c3a",
+        "title": "Movie",
+        "date": "02-01-2022",
+        "amount": 403.14,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856436c0fc03e7b9aab24",
+        "title": "Lunch",
+        "date": "29-01-2022",
+        "amount": 69.26,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643ed5ec8362365da58",
+        "title": "Shopping",
+        "date": "21-01-2022",
+        "amount": 346.72,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564302c40a745c1048e8",
+        "title": "Shopping",
+        "date": "01-01-2022",
+        "amount": 413.25,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643a7abd97dd417b149",
+        "title": "Drinks",
+        "date": "17-01-2022",
+        "amount": 290.12,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856433ecd91447481e899",
+        "title": "Movie",
+        "date": "02-01-2022",
+        "amount": 33.5,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856435ccff0dca921d178",
+        "title": "Drinks",
+        "date": "12-01-2022",
+        "amount": 451.62,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643f4f038ecf9b6aef0",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 345.37,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e8564390209aad00737056",
+        "title": "Shopping",
+        "date": "21-01-2022",
+        "amount": 233.97,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643f27ebbf0a987693f",
+        "title": "Lunch",
+        "date": "07-01-2022",
+        "amount": 229.76,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643993733d3f682ec0d",
+        "title": "Pool",
+        "date": "02-01-2022",
+        "amount": 388.6,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643feb2c36535eed7d5",
+        "title": "Lunch",
+        "date": "15-01-2022",
+        "amount": 78.31,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564325752ddab86aa9a8",
+        "title": "Drinks",
+        "date": "15-01-2022",
+        "amount": 211.53,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856435715f7352e29b314",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 190.4,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564326c9b672f9c3df6f",
+        "title": "Lunch",
+        "date": "09-01-2022",
+        "amount": 105.4,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643067745a87567001a",
+        "title": "Lunch",
+        "date": "05-01-2022",
+        "amount": 490.87,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856437f0fc1d9b9ac74fb",
+        "title": "Shopping",
+        "date": "10-01-2022",
+        "amount": 256.64,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856436462dfb1146569b7",
+        "title": "Pool",
+        "date": "19-01-2022",
+        "amount": 419.94,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643f698bb0bcf35db95",
+        "title": "Lunch",
+        "date": "08-01-2022",
+        "amount": 456,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564381949e8a92190cac",
+        "title": "Lunch",
+        "date": "04-01-2022",
+        "amount": 180.22,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856437c4def4a1b032b44",
+        "title": "Movie",
+        "date": "27-01-2022",
+        "amount": 365.36,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643728f690b2c0b07ad",
+        "title": "Lunch",
+        "date": "24-01-2022",
+        "amount": 213.62,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564383bbf2e4b2d92f85",
+        "title": "Pool",
+        "date": "29-01-2022",
+        "amount": 169.89,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643f3a9dcfeb395335f",
+        "title": "Movie",
+        "date": "03-01-2022",
+        "amount": 229.09,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564395b2428a48c98aef",
+        "title": "Lunch",
+        "date": "28-01-2022",
+        "amount": 249.8,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856438429e7e5d37a25c3",
+        "title": "Pool",
+        "date": "13-01-2022",
+        "amount": 162.48,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643585fc5e18dd99815",
+        "title": "Movie",
+        "date": "26-01-2022",
+        "amount": 322.54,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564347f41efaaad679a1",
+        "title": "Lunch",
+        "date": "14-01-2022",
+        "amount": 73.7,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643f843fb3ef1e80bed",
+        "title": "Shopping",
+        "date": "05-01-2022",
+        "amount": 175.21,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643dc24de55e58f1add",
+        "title": "Lunch",
+        "date": "07-01-2022",
+        "amount": 400.19,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643b7e62acfe3b2e446",
+        "title": "Shopping",
+        "date": "07-01-2022",
+        "amount": 15.06,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564305c3bb45165e4b92",
+        "title": "Shopping",
+        "date": "09-01-2022",
+        "amount": 217.31,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856434e325d09331e6861",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 337,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856435e4e79630e81c4e9",
+        "title": "Movie",
+        "date": "15-01-2022",
+        "amount": 64.95,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856435f052aafdd113064",
+        "title": "Lunch",
+        "date": "19-01-2022",
+        "amount": 20.44,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856437366569c6929b861",
+        "title": "Lunch",
+        "date": "26-01-2022",
+        "amount": 315.18,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564311633ad68fc4d297",
+        "title": "Shopping",
+        "date": "08-01-2022",
+        "amount": 171.37,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564322a2770f2840c24f",
+        "title": "Pool",
+        "date": "24-01-2022",
+        "amount": 423.9,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643320e53d89782b46a",
+        "title": "Movie",
+        "date": "29-01-2022",
+        "amount": 219.47,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564353e70770e9ed6f82",
+        "title": "Drinks",
+        "date": "07-01-2022",
+        "amount": 206.29,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564384b3a32eedf2d904",
+        "title": "Shopping",
+        "date": "28-01-2022",
+        "amount": 79.83,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564383d7eb0e4e2238c3",
+        "title": "Movie",
+        "date": "20-01-2022",
+        "amount": 322.84,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643f8d53795f00c4b13",
+        "title": "Lunch",
+        "date": "05-01-2022",
+        "amount": 101.65,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564332d23e4b3fc757ca",
+        "title": "Shopping",
+        "date": "15-01-2022",
+        "amount": 152.54,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643ce6f07dbe6af35b4",
+        "title": "Pool",
+        "date": "28-01-2022",
+        "amount": 105,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643fc6b216f7ff0eae8",
+        "title": "Lunch",
+        "date": "21-01-2022",
+        "amount": 469.58,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643d33c414d60319fda",
+        "title": "Drinks",
+        "date": "13-01-2022",
+        "amount": 135.51,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564372ecff676ea6d722",
+        "title": "Lunch",
+        "date": "11-01-2022",
+        "amount": 458.01,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564383bda69a9d185e52",
+        "title": "Movie",
+        "date": "28-01-2022",
+        "amount": 325.62,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643f68a65af4d72d7f8",
+        "title": "Movie",
+        "date": "30-01-2022",
+        "amount": 103.91,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856438d39f54c067f6b3a",
+        "title": "Shopping",
+        "date": "07-01-2022",
+        "amount": 111.83,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856438a987a52e5cfec08",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 50.82,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856431213e6bf0f7cadf4",
+        "title": "Lunch",
+        "date": "18-01-2022",
+        "amount": 469.44,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643f76f61dcd6e598c3",
+        "title": "Shopping",
+        "date": "27-01-2022",
+        "amount": 265.01,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856431d9c07488edb5ceb",
+        "title": "Drinks",
+        "date": "30-01-2022",
+        "amount": 405.26,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564377b0f58aeecbc16d",
+        "title": "Shopping",
+        "date": "11-01-2022",
+        "amount": 376.37,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643f81e341a7c51ae49",
+        "title": "Shopping",
+        "date": "06-01-2022",
+        "amount": 381.86,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856433daf2bfb59e2f50d",
+        "title": "Pool",
+        "date": "27-01-2022",
+        "amount": 314.56,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643434e6d08e18565ca",
+        "title": "Drinks",
+        "date": "27-01-2022",
+        "amount": 164.6,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564387992e658cd34fa1",
+        "title": "Lunch",
+        "date": "02-01-2022",
+        "amount": 371.08,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643b0a97e8b6dfefd07",
+        "title": "Drinks",
+        "date": "06-01-2022",
+        "amount": 323.46,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643a034da7b6bb41bef",
+        "title": "Movie",
+        "date": "31-01-2022",
+        "amount": 71.27,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856437a0000344aba4d02",
+        "title": "Movie",
+        "date": "04-01-2022",
+        "amount": 148.17,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643befe2a8266030dc8",
+        "title": "Drinks",
+        "date": "22-01-2022",
+        "amount": 262.12,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643573db9bb22e24b4a",
+        "title": "Shopping",
+        "date": "11-01-2022",
+        "amount": 220.13,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856433a1e2303fe96ea49",
+        "title": "Pool",
+        "date": "02-01-2022",
+        "amount": 406.51,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856432ec8912e2e7d1629",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 37.48,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643516edd53704df97e",
+        "title": "Lunch",
+        "date": "27-01-2022",
+        "amount": 383.81,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643243d565974706b4b",
+        "title": "Drinks",
+        "date": "06-01-2022",
+        "amount": 110.79,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643e989f6c40b869b7f",
+        "title": "Drinks",
+        "date": "26-01-2022",
+        "amount": 153.65,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856438e25287a6dbf0c65",
+        "title": "Shopping",
+        "date": "26-01-2022",
+        "amount": 325.8,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643708d7e3def16fb86",
+        "title": "Movie",
+        "date": "10-01-2022",
+        "amount": 101.02,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643621a7babd6ce3672",
+        "title": "Shopping",
+        "date": "04-01-2022",
+        "amount": 235.24,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564383484433e5449828",
+        "title": "Pool",
+        "date": "29-01-2022",
+        "amount": 464.48,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643310ed45b53705b7a",
+        "title": "Movie",
+        "date": "21-01-2022",
+        "amount": 493.46,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564303edef054c4da667",
+        "title": "Lunch",
+        "date": "31-01-2022",
+        "amount": 168.19,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856430296875c9bafa98e",
+        "title": "Shopping",
+        "date": "07-01-2022",
+        "amount": 451.36,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564335638c163e6e6ade",
+        "title": "Shopping",
+        "date": "05-01-2022",
+        "amount": 465.09,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564367d525169b7c2f48",
+        "title": "Movie",
+        "date": "26-01-2022",
+        "amount": 96.88,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643285f73771a7b76b3",
+        "title": "Shopping",
+        "date": "15-01-2022",
+        "amount": 139.4,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643f2aa392daf7f2092",
+        "title": "Pool",
+        "date": "09-01-2022",
+        "amount": 22.36,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856439760a1d21035121a",
+        "title": "Lunch",
+        "date": "06-01-2022",
+        "amount": 386.69,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643e3b0e549bfe32257",
+        "title": "Lunch",
+        "date": "12-01-2022",
+        "amount": 107.68,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643cbff2b77198d9c26",
+        "title": "Shopping",
+        "date": "01-01-2022",
+        "amount": 377.9,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643f0b1900a36fc3699",
+        "title": "Drinks",
+        "date": "18-01-2022",
+        "amount": 218.37,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564305529ec7741d3ecc",
+        "title": "Drinks",
+        "date": "08-01-2022",
+        "amount": 405.17,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643bfb9c33f33164e02",
+        "title": "Pool",
+        "date": "06-01-2022",
+        "amount": 21.47,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643f7c51234807434cc",
+        "title": "Movie",
+        "date": "17-01-2022",
+        "amount": 333.96,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856437e8472f6c5c25e68",
+        "title": "Shopping",
+        "date": "02-01-2022",
+        "amount": 322.89,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856435288154c61ac3714",
+        "title": "Drinks",
+        "date": "30-01-2022",
+        "amount": 213.79,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856436373affce49f2184",
+        "title": "Movie",
+        "date": "14-01-2022",
+        "amount": 343.71,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643b137e592c10ae05d",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 486.99,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856438cd9046fa3259519",
+        "title": "Lunch",
+        "date": "04-01-2022",
+        "amount": 156.77,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856430b3835333b9259cb",
+        "title": "Lunch",
+        "date": "16-01-2022",
+        "amount": 27.61,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643b40da90cd3cc2599",
+        "title": "Pool",
+        "date": "22-01-2022",
+        "amount": 184.52,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643b333c44029d6934c",
+        "title": "Drinks",
+        "date": "16-01-2022",
+        "amount": 245.72,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643ddfdcb0d1c7fbf5c",
+        "title": "Pool",
+        "date": "12-01-2022",
+        "amount": 347.52,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643e151570f6e4f4fa6",
+        "title": "Pool",
+        "date": "14-01-2022",
+        "amount": 329.84,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856435bf50c5e966854f8",
+        "title": "Drinks",
+        "date": "06-01-2022",
+        "amount": 264.76,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643ecfa0e21afd5bfcc",
+        "title": "Drinks",
+        "date": "20-01-2022",
+        "amount": 492.75,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643b544c20cb9f516e7",
+        "title": "Drinks",
+        "date": "19-01-2022",
+        "amount": 130.19,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856437c0616d578cc2b47",
+        "title": "Drinks",
+        "date": "09-01-2022",
+        "amount": 248.78,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856432ac6bb7fb16871af",
+        "title": "Shopping",
+        "date": "25-01-2022",
+        "amount": 325.82,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643c42b9484e1d7dbae",
+        "title": "Lunch",
+        "date": "21-01-2022",
+        "amount": 347.49,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643fd00d2e1f6e8f0b1",
+        "title": "Movie",
+        "date": "25-01-2022",
+        "amount": 339.35,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564306765feb5a014654",
+        "title": "Drinks",
+        "date": "16-01-2022",
+        "amount": 62.09,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856437bcee903928c0d05",
+        "title": "Shopping",
+        "date": "29-01-2022",
+        "amount": 314.85,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856437a1910aece7de156",
+        "title": "Movie",
+        "date": "05-01-2022",
+        "amount": 482.94,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856434cd28c621912c6cb",
+        "title": "Pool",
+        "date": "02-01-2022",
+        "amount": 380.37,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643203d569ad8a3d6a0",
+        "title": "Movie",
+        "date": "12-01-2022",
+        "amount": 362.22,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643cc7bd77129b5cb8c",
+        "title": "Shopping",
+        "date": "02-01-2022",
+        "amount": 40.43,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643836817c98bdeb055",
+        "title": "Movie",
+        "date": "27-01-2022",
+        "amount": 391.33,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856439bf944f7973b6b46",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 238.11,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856434c3e448007a788e1",
+        "title": "Lunch",
+        "date": "18-01-2022",
+        "amount": 407.7,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643b20d527d5dca345e",
+        "title": "Shopping",
+        "date": "17-01-2022",
+        "amount": 424.27,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643b33085aff73be0b3",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 345.42,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856431c3dd8aaf1b32449",
+        "title": "Movie",
+        "date": "07-01-2022",
+        "amount": 68.41,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643fdb4a52672c59153",
+        "title": "Pool",
+        "date": "13-01-2022",
+        "amount": 392.76,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643eeac6aee8147e3d1",
+        "title": "Movie",
+        "date": "21-01-2022",
+        "amount": 248.52,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564330077edd44ce877d",
+        "title": "Shopping",
+        "date": "25-01-2022",
+        "amount": 271.14,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643edbf64bd8c1f30b7",
+        "title": "Lunch",
+        "date": "29-01-2022",
+        "amount": 121.88,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643fa5723e43e02aaca",
+        "title": "Drinks",
+        "date": "08-01-2022",
+        "amount": 14.43,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643a5c45649a71131a8",
+        "title": "Drinks",
+        "date": "09-01-2022",
+        "amount": 466.32,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856436c41edbd8af021a1",
+        "title": "Shopping",
+        "date": "22-01-2022",
+        "amount": 90.16,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643439cfadae0142748",
+        "title": "Shopping",
+        "date": "22-01-2022",
+        "amount": 233.28,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564309e0faeab76faca7",
+        "title": "Pool",
+        "date": "11-01-2022",
+        "amount": 116.78,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643cf5217afa7d2f44e",
+        "title": "Movie",
+        "date": "31-01-2022",
+        "amount": 286.64,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643cea885c7a920ed26",
+        "title": "Drinks",
+        "date": "21-01-2022",
+        "amount": 146.8,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643334241ca31673fc7",
+        "title": "Lunch",
+        "date": "17-01-2022",
+        "amount": 101.75,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e8564399b66007f183459f",
+        "title": "Lunch",
+        "date": "14-01-2022",
+        "amount": 353.21,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856431fcc0bcce58e1841",
+        "title": "Movie",
+        "date": "12-01-2022",
+        "amount": 132.95,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856431471c1e33dc6d305",
+        "title": "Movie",
+        "date": "01-01-2022",
+        "amount": 160.77,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643cc34e3ece7d620a1",
+        "title": "Shopping",
+        "date": "14-01-2022",
+        "amount": 342.02,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643dba2154962bf7196",
+        "title": "Lunch",
+        "date": "17-01-2022",
+        "amount": 43.86,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564339953fe7ee53c313",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 271.67,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564317ca36e7f18c2827",
+        "title": "Movie",
+        "date": "02-01-2022",
+        "amount": 220.5,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856438280828de92751a0",
+        "title": "Drinks",
+        "date": "27-01-2022",
+        "amount": 331.01,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643e36a3b21550b3ee4",
+        "title": "Drinks",
+        "date": "24-01-2022",
+        "amount": 434.95,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643b9d0ebfda2013ae5",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 93.62,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643777f720eb1d0713a",
+        "title": "Lunch",
+        "date": "12-01-2022",
+        "amount": 237.48,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643026de13f3b4c3fc1",
+        "title": "Lunch",
+        "date": "19-01-2022",
+        "amount": 436.11,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643d6423a5c9a8ca6fa",
+        "title": "Shopping",
+        "date": "29-01-2022",
+        "amount": 340.1,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643e41d87b43909bd17",
+        "title": "Pool",
+        "date": "23-01-2022",
+        "amount": 491.61,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643e74e18999b2eb7bf",
+        "title": "Movie",
+        "date": "19-01-2022",
+        "amount": 142.46,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856437a1dc8ac7b97e4bf",
+        "title": "Movie",
+        "date": "26-01-2022",
+        "amount": 22.11,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643cff4c7194a6746c0",
+        "title": "Movie",
+        "date": "04-01-2022",
+        "amount": 448.21,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643ac63f4e8c81dd678",
+        "title": "Drinks",
+        "date": "11-01-2022",
+        "amount": 252.81,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856437b9721aef41857c2",
+        "title": "Drinks",
+        "date": "04-01-2022",
+        "amount": 452.1,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643021c2064e2c2c282",
+        "title": "Movie",
+        "date": "12-01-2022",
+        "amount": 313.13,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643b4871e3a144ae835",
+        "title": "Lunch",
+        "date": "07-01-2022",
+        "amount": 132.46,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643201378ba2bdcfcc2",
+        "title": "Drinks",
+        "date": "29-01-2022",
+        "amount": 119.37,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643fd48f593adc1383b",
+        "title": "Movie",
+        "date": "01-01-2022",
+        "amount": 374.54,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643275d6eb672bcfe7a",
+        "title": "Shopping",
+        "date": "25-01-2022",
+        "amount": 369.26,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564355372300bd76b991",
+        "title": "Movie",
+        "date": "26-01-2022",
+        "amount": 321.9,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643424c2616004a072b",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 393.15,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643402a92f32245fc90",
+        "title": "Shopping",
+        "date": "30-01-2022",
+        "amount": 210.2,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856431c200417b8504c80",
+        "title": "Pool",
+        "date": "29-01-2022",
+        "amount": 384.05,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856439dabb884bf56ce24",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 287.32,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856432d19dd6256d78b9a",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 353.58,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856432e05c1164f7513cf",
+        "title": "Lunch",
+        "date": "12-01-2022",
+        "amount": 49.97,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643d762b655066d1431",
+        "title": "Shopping",
+        "date": "03-01-2022",
+        "amount": 335.09,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643a79822f81d19dee6",
+        "title": "Pool",
+        "date": "29-01-2022",
+        "amount": 220.76,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564355e1a3609c4b98fa",
+        "title": "Lunch",
+        "date": "14-01-2022",
+        "amount": 281.84,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564337349069dacd0b13",
+        "title": "Lunch",
+        "date": "18-01-2022",
+        "amount": 73.06,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643ca2750fbfa0f0a08",
+        "title": "Pool",
+        "date": "18-01-2022",
+        "amount": 69.34,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643542ee2e20a4db451",
+        "title": "Shopping",
+        "date": "23-01-2022",
+        "amount": 148.24,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564372278a5c0c90bac7",
+        "title": "Shopping",
+        "date": "08-01-2022",
+        "amount": 37.15,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643c42f25b4b5cd929f",
+        "title": "Movie",
+        "date": "30-01-2022",
+        "amount": 454.08,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643efd5d31ead7879e1",
+        "title": "Shopping",
+        "date": "07-01-2022",
+        "amount": 408.76,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643db290e81b5672df9",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 25.37,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643e07c803b651395a9",
+        "title": "Lunch",
+        "date": "28-01-2022",
+        "amount": 449.53,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643438632f34c165db7",
+        "title": "Shopping",
+        "date": "30-01-2022",
+        "amount": 468.21,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643c50348f565077bce",
+        "title": "Lunch",
+        "date": "20-01-2022",
+        "amount": 292.37,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643ca3354b461a89f8b",
+        "title": "Movie",
+        "date": "04-01-2022",
+        "amount": 396.48,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564340b12d3e0defd312",
+        "title": "Lunch",
+        "date": "20-01-2022",
+        "amount": 178.58,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856434f7550cf7ec43bcf",
+        "title": "Drinks",
+        "date": "06-01-2022",
+        "amount": 459.17,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856439e1d133872f96d23",
+        "title": "Movie",
+        "date": "30-01-2022",
+        "amount": 122.26,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856439d9246a087de0f1e",
+        "title": "Pool",
+        "date": "08-01-2022",
+        "amount": 473.68,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643eb46b4433cc5f8fc",
+        "title": "Pool",
+        "date": "25-01-2022",
+        "amount": 484.2,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643f5532b4b956ead6f",
+        "title": "Movie",
+        "date": "09-01-2022",
+        "amount": 365.97,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856432075151a7e01debd",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 124.02,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643239bd3e6b27ae40b",
+        "title": "Lunch",
+        "date": "02-01-2022",
+        "amount": 188.58,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643d255c9abc18e1df9",
+        "title": "Pool",
+        "date": "31-01-2022",
+        "amount": 382.49,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643a474eb14b43a5fdc",
+        "title": "Drinks",
+        "date": "19-01-2022",
+        "amount": 174.99,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643760fa22eef0eba59",
+        "title": "Movie",
+        "date": "24-01-2022",
+        "amount": 102.41,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643a439eca82bc5b368",
+        "title": "Lunch",
+        "date": "06-01-2022",
+        "amount": 21.02,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856436b2a3ff676e7e303",
+        "title": "Drinks",
+        "date": "11-01-2022",
+        "amount": 346.02,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856436eda9144d3006e79",
+        "title": "Shopping",
+        "date": "07-01-2022",
+        "amount": 493.01,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643403363fec8571171",
+        "title": "Drinks",
+        "date": "09-01-2022",
+        "amount": 321.05,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643a717783c73fbfb45",
+        "title": "Movie",
+        "date": "06-01-2022",
+        "amount": 168.5,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856433d76f4f4cd1e8bde",
+        "title": "Shopping",
+        "date": "31-01-2022",
+        "amount": 146.77,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643b6a08d8c9a33d789",
+        "title": "Drinks",
+        "date": "03-01-2022",
+        "amount": 39.15,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643ada58d16dcac0260",
+        "title": "Shopping",
+        "date": "08-01-2022",
+        "amount": 439.36,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643ba37deeb3af5b73a",
+        "title": "Lunch",
+        "date": "07-01-2022",
+        "amount": 71.8,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643d36db9ef04b33a29",
+        "title": "Movie",
+        "date": "29-01-2022",
+        "amount": 237.04,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564376ced4c8651d21e5",
+        "title": "Lunch",
+        "date": "06-01-2022",
+        "amount": 151.37,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856434ae62148adfd2e74",
+        "title": "Drinks",
+        "date": "15-01-2022",
+        "amount": 499.08,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643640444b0686834d9",
+        "title": "Drinks",
+        "date": "08-01-2022",
+        "amount": 426.27,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856439b12fe04d8e5907c",
+        "title": "Movie",
+        "date": "17-01-2022",
+        "amount": 375.16,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856432229f92edddf503b",
+        "title": "Lunch",
+        "date": "26-01-2022",
+        "amount": 13.75,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643ade36a0dd4642a02",
+        "title": "Shopping",
+        "date": "06-01-2022",
+        "amount": 383.92,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856432dceb0f07681237c",
+        "title": "Shopping",
+        "date": "28-01-2022",
+        "amount": 115.18,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856438c6d4487444ba08a",
+        "title": "Pool",
+        "date": "18-01-2022",
+        "amount": 491.12,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856430579be6a52fb67e3",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 321.45,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856438e2f2a5dbb425f32",
+        "title": "Lunch",
+        "date": "14-01-2022",
+        "amount": 362.93,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643364733fad7d1c0e9",
+        "title": "Shopping",
+        "date": "29-01-2022",
+        "amount": 374.24,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856430fea3dbe98e0e4d3",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 432.32,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856432b00444cb7aa6225",
+        "title": "Pool",
+        "date": "02-01-2022",
+        "amount": 446.5,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856430c86fa3edae9acfc",
+        "title": "Shopping",
+        "date": "28-01-2022",
+        "amount": 400.25,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564379304aa9e1faedb2",
+        "title": "Drinks",
+        "date": "30-01-2022",
+        "amount": 126.24,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856434ee47ad1fb783654",
+        "title": "Pool",
+        "date": "21-01-2022",
+        "amount": 191.53,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643c7d84e2c7242f067",
+        "title": "Drinks",
+        "date": "03-01-2022",
+        "amount": 430.4,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564350893fd566bd2f3d",
+        "title": "Drinks",
+        "date": "26-01-2022",
+        "amount": 246.37,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856431eb4e8be31b3181e",
+        "title": "Lunch",
+        "date": "21-01-2022",
+        "amount": 259.15,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643632c1cc63cc0005f",
+        "title": "Movie",
+        "date": "15-01-2022",
+        "amount": 71.25,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856430c960563b092a68c",
+        "title": "Shopping",
+        "date": "02-01-2022",
+        "amount": 418.33,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643c3c79337305e5545",
+        "title": "Shopping",
+        "date": "26-01-2022",
+        "amount": 185.3,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643126637053555b146",
+        "title": "Lunch",
+        "date": "29-01-2022",
+        "amount": 410.36,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564381f7823c0961d0be",
+        "title": "Pool",
+        "date": "22-01-2022",
+        "amount": 372.05,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643bba8c7f8b5587fcd",
+        "title": "Lunch",
+        "date": "27-01-2022",
+        "amount": 184.96,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643d28f7bd9c6a40d0c",
+        "title": "Shopping",
+        "date": "24-01-2022",
+        "amount": 45.81,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643401ce7ac3b079c8b",
+        "title": "Movie",
+        "date": "31-01-2022",
+        "amount": 69.52,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643bcd5270989dbd0e2",
+        "title": "Movie",
+        "date": "14-01-2022",
+        "amount": 201.26,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564308f266b9d9dad252",
+        "title": "Movie",
+        "date": "15-01-2022",
+        "amount": 482.93,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564325474618db9cc82f",
+        "title": "Drinks",
+        "date": "12-01-2022",
+        "amount": 71.21,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643715b41f9bb9853b2",
+        "title": "Shopping",
+        "date": "09-01-2022",
+        "amount": 452.06,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643373d411405feeda7",
+        "title": "Pool",
+        "date": "17-01-2022",
+        "amount": 235.59,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564338fbcc76f368499f",
+        "title": "Pool",
+        "date": "25-01-2022",
+        "amount": 146.43,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856432664abb165febc8f",
+        "title": "Pool",
+        "date": "25-01-2022",
+        "amount": 431.02,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643673bdfa91e401a2a",
+        "title": "Shopping",
+        "date": "22-01-2022",
+        "amount": 234.13,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564320aa42f4b292a6d3",
+        "title": "Lunch",
+        "date": "06-01-2022",
+        "amount": 241.46,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856430790e91216a31204",
+        "title": "Pool",
+        "date": "08-01-2022",
+        "amount": 52.79,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856433ecdde55b717417c",
+        "title": "Lunch",
+        "date": "17-01-2022",
+        "amount": 458.56,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643862d7fe971e7a267",
+        "title": "Movie",
+        "date": "16-01-2022",
+        "amount": 340.52,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856437d8b850f25d22345",
+        "title": "Drinks",
+        "date": "13-01-2022",
+        "amount": 370.58,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643f86b0cad90fd7b41",
+        "title": "Drinks",
+        "date": "02-01-2022",
+        "amount": 383.97,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643b55e5d4b6a69a1cc",
+        "title": "Lunch",
+        "date": "30-01-2022",
+        "amount": 399.46,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643da1d8b686bc1f759",
+        "title": "Pool",
+        "date": "04-01-2022",
+        "amount": 194.83,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856437014f681498a2b85",
+        "title": "Shopping",
+        "date": "22-01-2022",
+        "amount": 83.52,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643697ce067ec1a8268",
+        "title": "Shopping",
+        "date": "21-01-2022",
+        "amount": 36.08,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856439a21bc5ba7bef55e",
+        "title": "Movie",
+        "date": "29-01-2022",
+        "amount": 375.96,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643d82f8fb71a748b63",
+        "title": "Shopping",
+        "date": "15-01-2022",
+        "amount": 248.82,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643c0a257cc2d566c91",
+        "title": "Pool",
+        "date": "11-01-2022",
+        "amount": 335.76,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564303e7c7445d7b26d9",
+        "title": "Pool",
+        "date": "06-01-2022",
+        "amount": 347.74,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643eaa4e259bab5be0b",
+        "title": "Drinks",
+        "date": "17-01-2022",
+        "amount": 447.2,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856439fdfab86d6330624",
+        "title": "Pool",
+        "date": "17-01-2022",
+        "amount": 211.78,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564327c3f7ba5fbac30a",
+        "title": "Lunch",
+        "date": "03-01-2022",
+        "amount": 234.97,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643a07d8323c9f8d0ef",
+        "title": "Drinks",
+        "date": "18-01-2022",
+        "amount": 263.38,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564352f2a60b9a696804",
+        "title": "Movie",
+        "date": "24-01-2022",
+        "amount": 145,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856430809fdb08ff8fa28",
+        "title": "Shopping",
+        "date": "09-01-2022",
+        "amount": 110.76,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856437589747476524a3b",
+        "title": "Pool",
+        "date": "09-01-2022",
+        "amount": 368.55,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856431bdcdc6d374e3c1f",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 477.29,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564364138f5dd180124d",
+        "title": "Lunch",
+        "date": "10-01-2022",
+        "amount": 380.32,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564356430c2125900d73",
+        "title": "Movie",
+        "date": "31-01-2022",
+        "amount": 499.07,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643271d30169eea46b3",
+        "title": "Pool",
+        "date": "10-01-2022",
+        "amount": 470.55,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643854a57a052cd07cf",
+        "title": "Movie",
+        "date": "25-01-2022",
+        "amount": 474.99,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856434d01c88c3cf6acc4",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 323.33,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564345fe3c74d7c0ab81",
+        "title": "Drinks",
+        "date": "11-01-2022",
+        "amount": 229.68,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643bbad39949ea19bbf",
+        "title": "Pool",
+        "date": "05-01-2022",
+        "amount": 177.05,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643cb8f268d8c8d2f31",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 387.82,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856431e80de0f8e203526",
+        "title": "Lunch",
+        "date": "28-01-2022",
+        "amount": 83.47,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643dc9556d45a27abf5",
+        "title": "Pool",
+        "date": "01-01-2022",
+        "amount": 272.28,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643d5c58ff5dac34cdc",
+        "title": "Pool",
+        "date": "22-01-2022",
+        "amount": 407.43,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643c548283cad7a3853",
+        "title": "Shopping",
+        "date": "22-01-2022",
+        "amount": 164.81,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856436e8895ca15d6f994",
+        "title": "Shopping",
+        "date": "06-01-2022",
+        "amount": 377.65,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564339592107e62c81a6",
+        "title": "Pool",
+        "date": "19-01-2022",
+        "amount": 325.73,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643ff2124951332e678",
+        "title": "Pool",
+        "date": "19-01-2022",
+        "amount": 458.66,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643161105028af3c865",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 192.45,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856437c856d0823b325e5",
+        "title": "Pool",
+        "date": "24-01-2022",
+        "amount": 104.51,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643f298f4065972b9a2",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 237.53,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643c1bf766a5ccb1f7c",
+        "title": "Pool",
+        "date": "07-01-2022",
+        "amount": 64.03,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643ae7c9b21153610ae",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 382.57,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856434cc0afd076169169",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 492.21,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856439cd136f36a5e81ff",
+        "title": "Pool",
+        "date": "05-01-2022",
+        "amount": 65.87,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643c4335bd445ac7bc0",
+        "title": "Lunch",
+        "date": "22-01-2022",
+        "amount": 471.04,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564383c7ac3752324ce0",
+        "title": "Lunch",
+        "date": "03-01-2022",
+        "amount": 227.97,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643f15db747d2b796ee",
+        "title": "Shopping",
+        "date": "02-01-2022",
+        "amount": 141.12,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856438546c919e086a60f",
+        "title": "Pool",
+        "date": "12-01-2022",
+        "amount": 465.54,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564340ed34e58db69765",
+        "title": "Pool",
+        "date": "08-01-2022",
+        "amount": 392.23,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643065cf9afaa354f32",
+        "title": "Pool",
+        "date": "24-01-2022",
+        "amount": 497.1,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856435ee8f1c14678ee26",
+        "title": "Lunch",
+        "date": "30-01-2022",
+        "amount": 238.58,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643c22fcb5bd65e3bc3",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 157.68,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856436455b7d864f238b4",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 190.82,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856433c2df5be20bce3f1",
+        "title": "Shopping",
+        "date": "31-01-2022",
+        "amount": 58.38,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643632ab7da29899533",
+        "title": "Movie",
+        "date": "15-01-2022",
+        "amount": 375.62,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856435cd7c2aeb2b3c2e5",
+        "title": "Drinks",
+        "date": "16-01-2022",
+        "amount": 492.42,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856431d5bfb8199c7b7e6",
+        "title": "Movie",
+        "date": "06-01-2022",
+        "amount": 44.85,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856430f4d80e4db9e8d10",
+        "title": "Drinks",
+        "date": "27-01-2022",
+        "amount": 390.68,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564353a68764f62db228",
+        "title": "Lunch",
+        "date": "10-01-2022",
+        "amount": 363.39,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643f2e7a8a88f7687b8",
+        "title": "Drinks",
+        "date": "23-01-2022",
+        "amount": 465.58,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856432baa43a97489d7ac",
+        "title": "Lunch",
+        "date": "27-01-2022",
+        "amount": 234.74,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643572b327fa2f7481a",
+        "title": "Lunch",
+        "date": "02-01-2022",
+        "amount": 138.65,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643ed1767a30148d0c2",
+        "title": "Lunch",
+        "date": "22-01-2022",
+        "amount": 199.24,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643095170ab654d4778",
+        "title": "Shopping",
+        "date": "15-01-2022",
+        "amount": 41.51,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643fc480af569289a04",
+        "title": "Shopping",
+        "date": "11-01-2022",
+        "amount": 427.35,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564316eca0e9df8d971d",
+        "title": "Drinks",
+        "date": "04-01-2022",
+        "amount": 62.76,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643814ea0e75d086923",
+        "title": "Shopping",
+        "date": "10-01-2022",
+        "amount": 21.46,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856438f13f8e01c40aa75",
+        "title": "Movie",
+        "date": "27-01-2022",
+        "amount": 439.3,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856437f34f775731da005",
+        "title": "Movie",
+        "date": "18-01-2022",
+        "amount": 268.78,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564391b24ea8111d71b8",
+        "title": "Shopping",
+        "date": "31-01-2022",
+        "amount": 197.18,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564335bbc312909e6e7c",
+        "title": "Pool",
+        "date": "22-01-2022",
+        "amount": 335.01,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643eefbb6bc7894cdf9",
+        "title": "Lunch",
+        "date": "16-01-2022",
+        "amount": 412.77,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856438d7aa1ddb24ace58",
+        "title": "Movie",
+        "date": "01-01-2022",
+        "amount": 318.63,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856434d8d37cf4a5653ff",
+        "title": "Shopping",
+        "date": "19-01-2022",
+        "amount": 17.64,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564361a88cf2496107e4",
+        "title": "Movie",
+        "date": "25-01-2022",
+        "amount": 440.92,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643c14a15625ea93cbe",
+        "title": "Pool",
+        "date": "08-01-2022",
+        "amount": 387.24,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856431ecc64b5dfdd2c15",
+        "title": "Lunch",
+        "date": "29-01-2022",
+        "amount": 101.22,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856435abe0c9d83abe552",
+        "title": "Lunch",
+        "date": "08-01-2022",
+        "amount": 432.49,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856439ed7f37426b7334b",
+        "title": "Pool",
+        "date": "22-01-2022",
+        "amount": 138.9,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643f9763240ffeb8aba",
+        "title": "Pool",
+        "date": "12-01-2022",
+        "amount": 462.07,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564358f7b487cfa07ab3",
+        "title": "Pool",
+        "date": "20-01-2022",
+        "amount": 64.53,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643c24e66806813e4a8",
+        "title": "Pool",
+        "date": "30-01-2022",
+        "amount": 139.7,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856435b79ee01226a2af7",
+        "title": "Movie",
+        "date": "17-01-2022",
+        "amount": 413.23,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856433e6c37819790cfa9",
+        "title": "Pool",
+        "date": "12-01-2022",
+        "amount": 135.28,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856438e73064f9248872c",
+        "title": "Drinks",
+        "date": "18-01-2022",
+        "amount": 107.18,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643ed9372f3ad298b89",
+        "title": "Movie",
+        "date": "31-01-2022",
+        "amount": 488.29,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643ae0c3a2a35f4b384",
+        "title": "Shopping",
+        "date": "17-01-2022",
+        "amount": 238.83,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856435a2c68e50cc9a07a",
+        "title": "Pool",
+        "date": "27-01-2022",
+        "amount": 203.97,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564382a6a8b130693c13",
+        "title": "Lunch",
+        "date": "02-01-2022",
+        "amount": 222.27,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856433b06412e5eb00887",
+        "title": "Movie",
+        "date": "23-01-2022",
+        "amount": 206.21,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643e007893ec5d32579",
+        "title": "Movie",
+        "date": "20-01-2022",
+        "amount": 441.99,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856439d68d7e01cb2e73a",
+        "title": "Movie",
+        "date": "09-01-2022",
+        "amount": 360.7,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856431af712404ab88c5d",
+        "title": "Shopping",
+        "date": "22-01-2022",
+        "amount": 225.01,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856432ca6b56ec1039d7b",
+        "title": "Movie",
+        "date": "27-01-2022",
+        "amount": 86.95,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564395959be1924d8d78",
+        "title": "Movie",
+        "date": "16-01-2022",
+        "amount": 26.64,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e8564373e697618c54a170",
+        "title": "Drinks",
+        "date": "31-01-2022",
+        "amount": 49.47,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564379a690b6f0f47b75",
+        "title": "Movie",
+        "date": "22-01-2022",
+        "amount": 286.6,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856432095df688f24674a",
+        "title": "Drinks",
+        "date": "23-01-2022",
+        "amount": 260.34,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e8564337062bb355f2bae9",
+        "title": "Drinks",
+        "date": "11-01-2022",
+        "amount": 265.61,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856430983fdad5a5822b2",
+        "title": "Shopping",
+        "date": "09-01-2022",
+        "amount": 50.97,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856439751def167245fdf",
+        "title": "Movie",
+        "date": "17-01-2022",
+        "amount": 268.27,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643a4455601f4678cde",
+        "title": "Shopping",
+        "date": "20-01-2022",
+        "amount": 321.96,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856430958e2e1d9000047",
+        "title": "Shopping",
+        "date": "20-01-2022",
+        "amount": 21.66,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856438a87937036bfd549",
+        "title": "Lunch",
+        "date": "30-01-2022",
+        "amount": 13.66,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643d12856f4f9d03832",
+        "title": "Lunch",
+        "date": "30-01-2022",
+        "amount": 335.71,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856430b5dc35b15ff317f",
+        "title": "Drinks",
+        "date": "10-01-2022",
+        "amount": 159.48,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856438673662dada2f37a",
+        "title": "Pool",
+        "date": "23-01-2022",
+        "amount": 437.05,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856435a152334d00de9da",
+        "title": "Lunch",
+        "date": "25-01-2022",
+        "amount": 378.62,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564324a73aeb259be9a4",
+        "title": "Pool",
+        "date": "31-01-2022",
+        "amount": 126.75,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564332fcd41c599d5c9c",
+        "title": "Drinks",
+        "date": "26-01-2022",
+        "amount": 375.33,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856438ad97a60ffac21c3",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 387.48,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643bb9ec542c196fec1",
+        "title": "Pool",
+        "date": "12-01-2022",
+        "amount": 389.2,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564309a76e27cf4b571b",
+        "title": "Pool",
+        "date": "17-01-2022",
+        "amount": 405.87,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643f08b9ecf80132183",
+        "title": "Movie",
+        "date": "28-01-2022",
+        "amount": 302.26,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564329662ce9ca520292",
+        "title": "Lunch",
+        "date": "29-01-2022",
+        "amount": 101.31,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643daf730e152821fd6",
+        "title": "Pool",
+        "date": "14-01-2022",
+        "amount": 450.72,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643debcf0d908936f96",
+        "title": "Lunch",
+        "date": "16-01-2022",
+        "amount": 38.3,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643be5384b8309cf295",
+        "title": "Movie",
+        "date": "04-01-2022",
+        "amount": 410.39,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643db5e8463bc7e9319",
+        "title": "Drinks",
+        "date": "04-01-2022",
+        "amount": 349.58,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643cd946543584d60ae",
+        "title": "Drinks",
+        "date": "29-01-2022",
+        "amount": 169.42,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856432bb07232710b6243",
+        "title": "Drinks",
+        "date": "20-01-2022",
+        "amount": 302.18,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643d5bde335385505a6",
+        "title": "Pool",
+        "date": "17-01-2022",
+        "amount": 389.79,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564304657f0122409465",
+        "title": "Lunch",
+        "date": "24-01-2022",
+        "amount": 116.06,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856438c9f7e5b2c392448",
+        "title": "Pool",
+        "date": "28-01-2022",
+        "amount": 278.6,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856438177d6bb3f09b21a",
+        "title": "Drinks",
+        "date": "06-01-2022",
+        "amount": 131.35,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856431636899d711c231c",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 484.93,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643b9dd28b6eff56ed2",
+        "title": "Movie",
+        "date": "17-01-2022",
+        "amount": 257.09,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643e366340255120111",
+        "title": "Pool",
+        "date": "28-01-2022",
+        "amount": 337.84,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856435eacc23ac6d2562e",
+        "title": "Lunch",
+        "date": "29-01-2022",
+        "amount": 255.11,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e85643786e73cc9bb4ccce",
+        "title": "Lunch",
+        "date": "01-01-2022",
+        "amount": 128.17,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e8564366b779893fd2c609",
+        "title": "Pool",
+        "date": "08-01-2022",
+        "amount": 305.35,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e856437bab676fe58d867f",
+        "title": "Drinks",
+        "date": "11-01-2022",
+        "amount": 15.79,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e856432ee793cc3238bbac",
+        "title": "Pool",
+        "date": "11-01-2022",
+        "amount": 225.4,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564361fefb667db01f67",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 100.93,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e8564336142be6ab45e6db",
+        "title": "Lunch",
+        "date": "30-01-2022",
+        "amount": 444.58,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643bc1ff9afaa9bb054",
+        "title": "Pool",
+        "date": "23-01-2022",
+        "amount": 293.8,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e85643f0f1f1bf7e2360a6",
+        "title": "Lunch",
+        "date": "04-01-2022",
+        "amount": 455.03,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643ce775836fce630aa",
+        "title": "Movie",
+        "date": "25-01-2022",
+        "amount": 358.23,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564318e237f1048a4e6c",
+        "title": "Lunch",
+        "date": "18-01-2022",
+        "amount": 84.46,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564340a717329c24b223",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 440.06,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564330b396a6a51cbe5d",
+        "title": "Pool",
+        "date": "26-01-2022",
+        "amount": 212.61,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643311afbfcd7282a1b",
+        "title": "Shopping",
+        "date": "09-01-2022",
+        "amount": 354.42,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643bf1036ffda6965e3",
+        "title": "Movie",
+        "date": "27-01-2022",
+        "amount": 109.13,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e8564399a01bfc3e22c379",
+        "title": "Movie",
+        "date": "14-01-2022",
+        "amount": 450.12,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e8564349fe8977c131f41e",
+        "title": "Pool",
+        "date": "16-01-2022",
+        "amount": 309.13,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856431e8026efe9de6bca",
+        "title": "Drinks",
+        "date": "27-01-2022",
+        "amount": 141.66,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564356923c4dc73603ad",
+        "title": "Pool",
+        "date": "12-01-2022",
+        "amount": 257.75,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e8564308320defe01bb5e2",
+        "title": "Lunch",
+        "date": "16-01-2022",
+        "amount": 306.31,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856438520af6da59ee5d1",
+        "title": "Shopping",
+        "date": "12-01-2022",
+        "amount": 499.67,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564385f8008bb87ff0ee",
+        "title": "Drinks",
+        "date": "26-01-2022",
+        "amount": 98.7,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564382164a1965a5b897",
+        "title": "Lunch",
+        "date": "09-01-2022",
+        "amount": 435.43,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e856434bfcb63db8a46ded",
+        "title": "Movie",
+        "date": "15-01-2022",
+        "amount": 456.14,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e85643ba34646f357b948d",
+        "title": "Drinks",
+        "date": "14-01-2022",
+        "amount": 436.25,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e856431316ef562cd49c11",
+        "title": "Shopping",
+        "date": "04-01-2022",
+        "amount": 252.48,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643a88b72ca0f905f5d",
+        "title": "Drinks",
+        "date": "12-01-2022",
+        "amount": 73.35,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e8564343f489301a0d4aee",
+        "title": "Drinks",
+        "date": "12-01-2022",
+        "amount": 494.93,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e85643d475205fc329eb28",
+        "title": "Lunch",
+        "date": "14-01-2022",
+        "amount": 365.23,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856433934d54eb7ccf633",
+        "title": "Drinks",
+        "date": "19-01-2022",
+        "amount": 192.88,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    },
+    {
+        "id": "61e85643a28b7ab98501e7a5",
+        "title": "Lunch",
+        "date": "23-01-2022",
+        "amount": 178.66,
+        "paidBy": "61e84eba5cfcf22a42290c20",
+        "paidFor": "61e84ebacd515d50ee4cd504"
+    },
+    {
+        "id": "61e8564301af5005d76b2bed",
+        "title": "Pool",
+        "date": "09-01-2022",
+        "amount": 43.65,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e856435c763d09f185bf21",
+        "title": "Movie",
+        "date": "16-01-2022",
+        "amount": 355.48,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856431575a3d3a046a405",
+        "title": "Movie",
+        "date": "12-01-2022",
+        "amount": 215.59,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643d4e2306e8336544f",
+        "title": "Drinks",
+        "date": "22-01-2022",
+        "amount": 13.27,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e856433a2a4ce6446e04cc",
+        "title": "Drinks",
+        "date": "04-01-2022",
+        "amount": 180.49,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564339b040cd326b2d03",
+        "title": "Lunch",
+        "date": "06-01-2022",
+        "amount": 348.99,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e856434fbd143e2dc84025",
+        "title": "Drinks",
+        "date": "16-01-2022",
+        "amount": 143.4,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643bed0cab42cb80406",
+        "title": "Movie",
+        "date": "04-01-2022",
+        "amount": 97.36,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e8564397ed0f788a5824bb",
+        "title": "Movie",
+        "date": "14-01-2022",
+        "amount": 79.89,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba9e8406803db91b72"
+    },
+    {
+        "id": "61e8564332a61c4fb7689def",
+        "title": "Lunch",
+        "date": "17-01-2022",
+        "amount": 367.99,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84ebaed5d347876fc1a75"
+    },
+    {
+        "id": "61e856430d7c5fc76e24cd26",
+        "title": "Shopping",
+        "date": "03-01-2022",
+        "amount": 452.31,
+        "paidBy": "61e84eba15afca129e86e7d9",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643b1512f1724749cf2",
+        "title": "Pool",
+        "date": "13-01-2022",
+        "amount": 373.12,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643ec133fa32b77a807",
+        "title": "Drinks",
+        "date": "16-01-2022",
+        "amount": 40.13,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84ebafba9233429aec903"
+    },
+    {
+        "id": "61e85643d293935422c25590",
+        "title": "Drinks",
+        "date": "28-01-2022",
+        "amount": 225.87,
+        "paidBy": "61e84ebacd515d50ee4cd504",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643aac465d81ff68cce",
+        "title": "Lunch",
+        "date": "11-01-2022",
+        "amount": 34.91,
+        "paidBy": "61e84eba412a81b49ce2e725",
+        "paidFor": "61e84ebac8198ca47fb15382"
+    },
+    {
+        "id": "61e85643fc4ce1863e5a6989",
+        "title": "Movie",
+        "date": "04-01-2022",
+        "amount": 264.93,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba5cfcf22a42290c20"
+    },
+    {
+        "id": "61e856435ca34d198984f2fc",
+        "title": "Lunch",
+        "date": "20-01-2022",
+        "amount": 47.13,
+        "paidBy": "61e84ebafba9233429aec903",
+        "paidFor": "61e84eba39de7e19d4e2a394"
+    },
+    {
+        "id": "61e85643a2eeaf607a8501b4",
+        "title": "Movie",
+        "date": "19-01-2022",
+        "amount": 265.08,
+        "paidBy": "61e84ebaed5d347876fc1a75",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643b5b5731f9a589852",
+        "title": "Shopping",
+        "date": "02-01-2022",
+        "amount": 66.29,
+        "paidBy": "61e84eba39de7e19d4e2a394",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643975a817e03b159e6",
+        "title": "Pool",
+        "date": "17-01-2022",
+        "amount": 88.03,
+        "paidBy": "61e84ebac8198ca47fb15382",
+        "paidFor": "61e84eba15afca129e86e7d9"
+    },
+    {
+        "id": "61e85643834df4148ce412e1",
+        "title": "Movie",
+        "date": "08-01-2022",
+        "amount": 52.08,
+        "paidBy": "61e84eba9e8406803db91b72",
+        "paidFor": "61e84eba412a81b49ce2e725"
+    }
+]

@@ -4,23 +4,16 @@ const app = express();
 const jwt = require('jsonwebtoken');
 app.use(express.json());
 
-const users = [{ name: 'admin', password: 'Pass@1234' }, { name: 'John', password: 'Pass@1234' }, { name: 'Kevin', password: 'Pass@1234' }];
-app.get('/', (req, res) => {
-    res.send('Hello World!');
-})
-app.get('/posts', authenticateToken, (req, res) => {
-    const fPosts = posts.filter(post => post.author === req.user.user.name)
-    res.json(fPosts);
-})
+const users = require('./users.json');
+const feeds = require('./feeds.json');
 
 app.post('/login', (req, res) => {
-    const user = {
-        name: req.body.name,
-        password: req.body.password
-    }
-    authenticatedUser = users.find(u => u.name === user.name && u.password === user.password)
+    const email = req.body.email;
+    const password = req.body.password;
+    authenticatedUser = users.find(u => u.email === email && u.password === password)
     if (authenticatedUser) {
-        const token = jwt.sign({ user }, process.env.ACCESS_TOKEN_SECRET)
+        delete authenticatedUser["password"];
+        const token = jwt.sign(authenticatedUser, process.env.ACCESS_TOKEN_SECRET)
         res.json({ accessToken: token, refreshToken: '' })
     }
 })
@@ -36,5 +29,16 @@ function authenticateToken(req, res, next) {
         next()
     })
 }
+
+app.get('/feed', authenticateToken, (req, res) => {
+    const fPosts = feeds.filter(post => (post.paidBy === req.user.id || post.paidFor === req.user.id));
+    const count = fPosts.length;
+    res.json({ count, feed: fPosts });
+})
+
+app.get('/friends', authenticateToken, (req, res) => {
+    const friends = users.filter(u => u.id !== req.user.id);
+    res.json(friends.map(u => ({ id: u.id, name: u.name, email: u.email, picture: u.picture })));
+})
 
 app.listen(4000)
