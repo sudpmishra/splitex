@@ -1,0 +1,56 @@
+.Overlay {
+    inset: 0;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    z-index: 500;
+}
+
+.Overlay.Show {
+    display: block;
+}
+
+.Modal {
+    position: fixed;
+    background-color: #ffffffdd;
+    width: 80vw;
+    height: 90vh;
+    box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.15);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 150%);
+    border-radius: 10px;
+    top: 0;
+    padding: 30px;
+    transition: all 0.5s ease-in-out;
+    z-index: 1000;
+}
+.Small-Modal{
+    width: 40vw;
+    height: 90vh;
+}
+.Modal .Modal_Header {
+    position: relative;
+}
+.Modal .Modal_Header .close-icon-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: #ffffffdd;
+}
+.Modal .Modal_Body {
+    height: 60vh;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+.Modal.Show {
+    transform: translate(-50%, 20%);
+}
