@@ -18,7 +18,6 @@ export default function Login() {
     const [isLogin, setIsLogin] = useState(true)
     const navigate = useNavigate()
     const login = () => {
-        // navigate("/")
         http.post("login", {
             "name": email,
             "password": password
@@ -26,6 +25,7 @@ export default function Login() {
             .then((res) => {
                 localStorage.setItem("auth_token",res.accessToken)
                 localStorage.setItem("refresh_token",res.refreshToken)
+                window.location.reload()
             })
     }
     return (
