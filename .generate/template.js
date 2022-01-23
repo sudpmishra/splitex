@@ -1,5 +1,5 @@
 exports.component = name => `import React from 'react';
-import './${name}.scss';
+import './${name}.css';
 
 const ${name} = () => {
   return (
