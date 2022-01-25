@@ -31,9 +31,9 @@ export default function Login() {
     }
     const _register = () => {
         http.post("api/auth/register", {
-            "username": userName,
+            "name": userName,
             "password": password,
-            "email": email
+            "username": email
         })
             .then(() => {
                 setFormType("LOGIN")
