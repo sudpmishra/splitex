@@ -38,14 +38,10 @@ hr{
     flex-direction: column;
 }
 
-footer{
-    position:absolute; 
-    bottom:0px; 
-    height: 32px; 
-    left:650px; 
-    right:0px; 
+footer{ 
+    height: 20px; 
     overflow:hidden;
-    align-items: center;
+    text-align: center;
     font-size: 12px;
 }
 
@@ -69,4 +65,62 @@ footer{
 
 .content{
     padding: 20px 40px;
+    background-color: var(--bg-color);
+}
+
+.home-card, .friend-card{
+    background-color: var(--white-2);
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.home-card .home-amt{
+    border-bottom: 1px solid var(--dark-1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card{
+    padding: 10px;
+}
+
+.card img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 1px solid var(--dark-1);
+}
+
+.card .card-data{
+    border-bottom: 1px solid var(--dark-1);
+    margin: 5px;
+}
+
+.card-icon button{
+    height: 35px;
+    width: 35px;
+    padding: 0;
+    border-radius: 50%;
+}
+
+.friend-title{
+    border-bottom: 1px solid var(--dark-1);
+    margin-bottom: 20px;
+    padding: 4px;
+}
+
+.bill-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    padding: 20px;
+    width: 100%;
+}
+
+.bill-image img{
+    height: 100%;
 }

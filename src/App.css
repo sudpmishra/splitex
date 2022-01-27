@@ -11,6 +11,7 @@
   --danger: #F71735;
   --warning: #F99C39;
   --info: #BFD7EA;
+  --bg-color: #DADADA;
 }
 
 .btn{
@@ -47,7 +48,31 @@
   color: var(--dark-3);
 }
 
+.btn-bg-color{
+  background-color: var(--bg-color);
+  color: var(--dark-2);
+}
+
 .ml-10{
   margin-left: 10px;
+}
+
+.mr-10{
+  margin-right: 10px;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+
+.ml-20{
+  margin-left: 20px;
+}
+
+.amt-owed{
+  background-color: var(--success);
+  color: var(--white-1);
+  padding: 5px;
+  border-radius: 20px;
 }
 

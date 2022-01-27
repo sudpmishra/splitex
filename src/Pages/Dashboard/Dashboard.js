@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Dashboard.css';
 import logo from './../../logo.png';
+import Modal from '../../Components/Modal/Modal';
+import DashboardFeed from '../../Components/DashboardFeed/DashboardFeed';
+import FriendList from '../../Components/FriendList/FriendList';
 
 const Dashboard = () => {
+  const [slider, setSlider] = useState(false);
   return (
     <>
       <header>
@@ -25,36 +29,34 @@ const Dashboard = () => {
       <div className="content">
         <div className="row">
           <div className="col-8">
-            <div className="row">
-              <div className="col-12 btn-strip">
-                <div className="btn-left">
-                  <button className="btn btn-primary"><i class="fas fa-home"></i> <span className='ml-10'>Home</span></button>
-                  <button className="btn btn-circular btn-secondary ml-10"><i class="fas fa-receipt"></i></button>
-                  <button className="btn btn-circular btn-secondary ml-10"><i class="fas fa-history"></i></button>
-                  <button className="btn btn-circular btn-secondary ml-10"><i class="fas fa-chart-line"></i></button>
-                </div>
-                <div className="btn-right">
-                  <button className="btn btn-circular btn-primary ml-10"><i class="fas fa-plus-circle"></i></button>
-                  <button className="btn btn-circular btn-primary ml-10"><i class="fas fa-handshake"></i></button>
-                </div>
-              </div>
-            </div>
+            <DashboardFeed setSlider={setSlider}/>
           </div>
           <div className="col-4">
-            <div className="row">
-              <div className="col-12">
-                <div className="btn-right">
-                  <button className="btn btn-circular btn-success ml-10"><i class="fas fa-user-plus"></i></button>
-                </div>
-              </div>
-            </div>
+            <FriendList/>
           </div>
         </div>
       </div>
+      <Modal
+        showSlider={slider}
+        setShowSlider={setSlider}
+        title='Drink Bill Split'
+        subTitle='1/27/2022'
+        loading={false}
+        body={<ModalBody />}
+        size='small' />
       <footer>
         <span>Copyright 2022, SplitEx</span>
       </footer>
     </>
   );
 };
+
+
+const ModalBody = () => {
+  return (
+    <div className="bill-image">
+      <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPR5QNTgExD351P1uVI-t_SUtr_0cUVPikdA&usqp=CAU'></img>
+    </div>
+  )
+}
 export default Dashboard;
