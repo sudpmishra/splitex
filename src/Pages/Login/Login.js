@@ -25,8 +25,9 @@ export default function Login() {
             "password": password
         })
             .then((res) => {
-                localStorage.setItem("auth_token", res.accessToken)
+                localStorage.setItem("auth_token", res.token)
                 localStorage.setItem("refresh_token", res.refreshToken)
+                res.token && window.location.reload()
             })
     }
     const _register = () => {

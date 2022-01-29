@@ -1,0 +1,18 @@
+.pagination .page {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 10px 3px;
+    background-color: var(--bg-color);
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination .active {
+    background-color: var(--primary);
+    color: var(--white-1);
+}

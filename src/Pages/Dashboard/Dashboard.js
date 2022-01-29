@@ -4,7 +4,9 @@ import logo from './../../logo.png';
 import Modal from '../../Components/Modal/Modal';
 import DashboardFeed from '../../Components/DashboardFeed/DashboardFeed';
 import FriendList from '../../Components/FriendList/FriendList';
+import jwtDecode from 'jwt-decode';
 
+const userData = jwtDecode(localStorage.getItem('auth_token')).user;
 const Dashboard = () => {
   const [slider, setSlider] = useState(false);
   return (
@@ -14,14 +16,14 @@ const Dashboard = () => {
           <img src={logo}></img>
         </div>
         <div className="header-right">
-          <img src=''></img>
+          <img src='https://www.bsn.eu/wp-content/uploads/2016/12/user-icon-image-placeholder.jpg'></img>
           <div className="header-righ-info">
-            <span>Sujina Maharjan</span>
-            <span>suzeena.mhrjn@gmail.com</span>
+            <span>{userData.name}</span>
+            <span>{userData.username}</span>
           </div>
           <div className="header-right-icon">
-            <span className='ml-10'><i class="fas fa-bell"></i></span>
-            <span className='ml-10'><i class="fas fa-sign-out-alt"></i></span>
+            <span className='ml-10'><i className="fas fa-bell"></i></span>
+            <span className='ml-10'><i className="fas fa-sign-out-alt"></i></span>
           </div>
         </div>
       </header>
@@ -29,10 +31,10 @@ const Dashboard = () => {
       <div className="content">
         <div className="row">
           <div className="col-8">
-            <DashboardFeed setSlider={setSlider}/>
+            <DashboardFeed setSlider={setSlider} />
           </div>
           <div className="col-4">
-            <FriendList/>
+            <FriendList />
           </div>
         </div>
       </div>

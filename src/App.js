@@ -7,12 +7,13 @@ import ComponentsExamples from './Pages/ComponentsExamples/ComponentsExamples';
 import ForgotPassword from './Pages/ForgotPassword/ForgotPassword';
 
 function App() {
-    const auth_token = localStorage.getItem("auth_token")
+    var auth_token = localStorage.getItem("auth_token");
+    auth_token = auth_token !== 'undefined' && auth_token !== 'null' && auth_token !== '' ? auth_token : null;
     return (
         <BrowserRouter>
             <Routes>
                 {/* <Route path="/login" element={<Login />} /> */}
-                <Route path="/" element={auth_token?<Dashboard />:<Login/>} />
+                <Route path="/" element={auth_token ? <Dashboard /> : <Login />} />
                 <Route path="/components" element={<ComponentsExamples />} />
                 <Route path="/reset-password" element={<ForgotPassword />} />
             </Routes>

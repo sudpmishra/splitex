@@ -16,9 +16,9 @@ const EachCard = ({ setSlider }) => {
               <button className='btn btn-success align-self-start'>$521.23</button>
             </div>
             <div className='d-flex align-items-center justify-content-end card-icon'>
-              <button className='btn btn-bg-color ml-10'><i class="fas fa-receipt"></i></button>
-              <button className='btn btn-secondary ml-10' onClick={() => setSlider(true)}><i class="fas fa-image"></i></button>
-              <button className='btn btn-primary ml-10'><i class="fas fa-handshake"></i></button>
+              <button className='btn btn-bg-color ml-10'><i className="fas fa-receipt"></i></button>
+              <button className='btn btn-secondary ml-10' onClick={() => setSlider(true)}><i className="fas fa-image"></i></button>
+              <button className='btn btn-primary ml-10'><i className="fas fa-handshake"></i></button>
             </div>
           </div>
         </div>

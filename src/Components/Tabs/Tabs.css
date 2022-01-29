@@ -1,0 +1,12 @@
+.tabs {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.tabs .tab-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10px;
+    transition: all 1s ease-in-out;
+}

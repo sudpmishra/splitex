@@ -1,0 +1,130 @@
+.disable {
+    pointer-events: none;
+}
+.disable-overlay {
+    cursor: pointer;
+    pointer-events: none;
+    position: absolute;
+    background-color: #043a4e33;
+    inset: 0;
+}
+.input-container {
+    background: var(--white-1);
+    border-radius: 5px;
+    position: relative;
+    margin: 0.5em 1em;
+    padding: 0.2em 0.5em;
+    border: 0.5px solid var(--info);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 3em;
+}
+.input-container .input-label {
+    position: absolute;
+    left: 0.5em;
+    top: 0.5em;
+    transition: all 0.2s linear;
+}
+.input-container .label-alt {
+    font-size: 0.7em;
+    top: 0em;
+}
+
+.input-container input,
+.input-container textarea,
+.input-container select,
+.input-container .react-datepicker-wrapper,
+.input-container .radio-input,
+.image-upload .image-upload-label {
+    min-height: 100%;
+    border: 0px;
+    outline: 0px;
+    margin-top: 10px;
+    flex-grow: 1;
+    resize: none;
+}
+.image-upload .image-upload-label {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.react-datepicker-wrapper {
+    margin-top: 0px !important;
+}
+.react-datepicker-wrapper .react-datepicker__input-container input {
+    background-color: inherit;
+    width: 100%;
+}
+.react-datepicker__triangle::after,
+.react-datepicker__triangle::before {
+    left: -30px !important;
+}
+.input-container i {
+    width: 1.5em;
+    height: 1.5em;
+    margin-left: 0.5em;
+    line-height: 1.5em;
+    text-align: center;
+}
+.multi-select-container .multi-select-option {
+    display: inline-block;
+    margin-right: 0.5em;
+    height: 2em;
+    border-radius: 1em;
+    background-color: var(--info);
+    padding: 0.2em 0.5em;
+    color: var(--dark-1);
+    margin-bottom: 5px;
+}
+.multi-select-container .multi-select-option i {
+    height: 17px;
+    width: 17px;
+    line-height: 17px !important;
+    font-size: 0.7em;
+    background-color: var(--danger);
+    border-radius: 50%;
+    color: var(--white-1);
+}
+.multi-select-container-input {
+    position: relative;
+}
+.multi-select-container-input .multi-select-options-container {
+    background: var(--white-1);
+    /* padding: 10px; */
+    max-height: 200px;
+    overflow-y: scroll;
+    position: absolute;
+    top: 1.3em;
+    left: 0px;
+    display: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.multi-select-container-input input {
+    background-color: inherit;
+    padding-left: 10px;
+}
+.multi-select-container-input .multi-select-options-container .multi-select-option-dropdown {
+    display: block;
+    transition: all 0.2s linear;
+    padding: 0.5em;
+    outline: 0;
+    border: 0;
+    width: 100%;
+    text-align: start;
+}
+.multi-select-container-input .multi-select-options-container .multi-select-option-dropdown:hover,
+.multi-select-container-input .multi-select-options-container .multi-select-option-dropdown:focus {
+    background-color: #043a4e33;
+}
+.multiselect {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.multi-select-container-input .show {
+    display: block;
+}

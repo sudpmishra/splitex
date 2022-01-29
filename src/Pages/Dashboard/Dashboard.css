@@ -61,6 +61,8 @@ footer{
     display: flex;
     justify-content: end;
     align-items: center;
+    height: 40px;
+    padding-bottom: 10px;
 }
 
 .content{

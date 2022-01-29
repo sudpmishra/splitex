@@ -13,7 +13,9 @@
   --info: #BFD7EA;
   --bg-color: #DADADA;
 }
-
+iframe{
+  display: none !important;
+}
 .btn{
   border-radius: 1em;
   border: 0;
