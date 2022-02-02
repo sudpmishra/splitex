@@ -126,3 +126,8 @@ footer{
 .bill-image img{
     height: 100%;
 }
+
+.split-bill{
+    margin: 20px;
+    border-bottom: 1px solid var(--dark-3);
+}

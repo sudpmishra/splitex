@@ -7,8 +7,9 @@ import ComponentsExamples from './Pages/ComponentsExamples/ComponentsExamples';
 import ForgotPassword from './Pages/ForgotPassword/ForgotPassword';
 
 function App() {
-    var auth_token = localStorage.getItem("auth_token");
-    auth_token = auth_token !== 'undefined' && auth_token !== 'null' && auth_token !== '' ? auth_token : null;
+    // var auth_token = localStorage.getItem("auth_token");
+    // auth_token = auth_token !== 'undefined' && auth_token !== 'null' && auth_token !== '' ? auth_token : null;
+    var auth_token = 1;
     return (
         <BrowserRouter>
             <Routes>
