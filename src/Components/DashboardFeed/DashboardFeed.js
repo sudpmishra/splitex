@@ -2,7 +2,7 @@ import React from 'react';
 import EachCard from '../EachCard/EachCard';
 import './DashboardFeed.css';
 
-const DashboardFeed = ({setSlider,setShowAddExpenseModal,setShowEditExpenseModal,setShowViewExpenseModal}) => {
+const DashboardFeed = ({setSlider,setShowAddExpenseModal,setShowEditExpenseModal,setShowViewExpenseModal,setShowSettleUpModal}) => {
   return (
     <>
       <div className="row">
@@ -15,7 +15,7 @@ const DashboardFeed = ({setSlider,setShowAddExpenseModal,setShowEditExpenseModal
           </div>
           <div className="btn-right">
             <button className="btn btn-circular btn-primary ml-10" onClick={setShowAddExpenseModal}><i className="fas fa-plus-circle"></i></button>
-            <button className="btn btn-circular btn-primary ml-10"><i className="fas fa-handshake"></i></button>
+            <button className="btn btn-circular btn-primary ml-10" onClick={setShowSettleUpModal}><i className="fas fa-handshake"></i></button>
           </div>
         </div>
       </div>

@@ -45,26 +45,6 @@ footer{
     font-size: 12px;
 }
 
-.btn-strip{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.btn-strip .btn-left, .btn-strip .btn-right{
-    display: flex;
-    justify-content: start;
-    align-items: center;
-}
-
-.btn-right{
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    height: 40px;
-    padding-bottom: 10px;
-}
-
 .content{
     padding: 20px 40px;
     background-color: var(--bg-color);
@@ -76,13 +56,6 @@ footer{
     width: 100%;
     margin-top: 10px;
     padding: 10px;
-}
-
-.home-card .home-amt{
-    border-bottom: 1px solid var(--dark-1);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .card{
@@ -130,4 +103,30 @@ footer{
 .split-bill{
     margin: 20px;
     border-bottom: 1px solid var(--dark-3);
+}
+
+.footer{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.footer .footer-cancel{
+    border-radius: 50px;
+    background-color: var(--danger);
+    color: var(--white-2);
+    border: 0px;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: smaller;
+}
+
+.footer .footer-save{
+    border-radius: 50px;
+    background-color: var(--success);
+    color: var(--white-2);
+    border: 0px;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: smaller;
 }

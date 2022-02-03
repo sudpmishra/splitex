@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "Pool",
+        "date" : "Feb 2, 2022",
+        "paidBy" : "You",
+        "amount" : "124235",
+        "paidByYou" : "124235",
+        "paidForYou" : "-"
+    },
+    {
+        "title" : "Food",
+        "date" : "Feb 5, 2022",
+        "paidBy" : "Suji",
+        "amount" : "1236",
+        "paidByYou" : "-",
+        "paidForYou" : "1236"
+    },
+    {
+        "title" : "Shopping",
+        "date" : "Feb 10, 2022",
+        "paidBy" : "You",
+        "amount" : "1205",
+        "paidByYou" : "1205",
+        "paidForYou" : "-"
+    }
+]

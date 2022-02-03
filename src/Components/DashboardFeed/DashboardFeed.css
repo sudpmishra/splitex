@@ -1,0 +1,26 @@
+.btn-strip{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-strip .btn-left, .btn-strip .btn-right{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.btn-right{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 40px;
+    padding-bottom: 10px;
+}
+
+.home-card .home-amt{
+    border-bottom: 1px solid var(--dark-1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
