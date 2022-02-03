@@ -15,8 +15,8 @@ hr{
 }
 
 .header-img img{
-    height: 115px;
-    width: 290px;
+    height: 100%;
+    padding: 30px;
 }
 
 .header-right{
@@ -37,7 +37,11 @@ hr{
     display: flex;
     flex-direction: column;
 }
-
+.header-right .header-right-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 footer{ 
     height: 20px; 
     overflow:hidden;
@@ -47,6 +51,8 @@ footer{
 
 .content{
     padding: 20px 40px;
+    max-height: calc(100vh - 120px);
+    overflow: scroll;
     background-color: var(--bg-color);
 }
 
@@ -56,6 +62,8 @@ footer{
     width: 100%;
     margin-top: 10px;
     padding: 10px;
+    max-height: calc(100vh - 210px);
+    overflow: scroll;
 }
 
 .card{

@@ -5,8 +5,9 @@ import './Inputs.css';
 
 const TextBox = ({ value, setValue, type, label, iconLabel, disabled = false }) => {
   const [labelTypeChange, setLabelTypeChange] = useState(value ? true : false);
+  const inputRef = createRef();
   useEffect(() => {
-    setLabelTypeChange(value ? true : false)
+    setLabelTypeChange(value || value === '' ? true : false)
   }, [value])
   const _setLabelTypeChangeIfBlank = (val) => {
     if (value) {
@@ -16,10 +17,10 @@ const TextBox = ({ value, setValue, type, label, iconLabel, disabled = false }) 
     }
   }
   return (
-    <div className={`input-container ${disabled ? 'disable' : ''}`}>
+    <div className={`input-container ${disabled ? 'disable' : ''}`} onClick={() => inputRef.current.focus()}>
       {disabled && <div className='disable-overlay'></div>}
       <label className={`input-label ${labelTypeChange ? 'label-alt' : ''}`}>{label}</label>
-      <input type={type} value={value} onChange={e => setValue(e.target.value)} onBlur={() => _setLabelTypeChangeIfBlank(false)} onFocus={() => _setLabelTypeChangeIfBlank(true)} />
+      <input type={type} value={value} ref={inputRef} onChange={e => setValue(e.target.value)} onBlur={() => _setLabelTypeChangeIfBlank(false)} onFocus={() => _setLabelTypeChangeIfBlank(true)} />
       <i className={`fa fa-${iconLabel}`}></i>
     </div>
   );
@@ -27,7 +28,7 @@ const TextBox = ({ value, setValue, type, label, iconLabel, disabled = false }) 
 const TextArea = ({ value, setValue, label, iconLabel, disabled = false }) => {
   const [labelTypeChange, setLabelTypeChange] = useState(value ? true : false);
   useEffect(() => {
-    setLabelTypeChange(value ? true : false)
+    setLabelTypeChange(value || value === '' ? true : false)
   }, [value])
   const _setLabelTypeChangeIfBlank = (val) => {
     if (value) {

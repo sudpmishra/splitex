@@ -11,13 +11,13 @@ const Tabs = ({options, selectedTab, onTabChange}) => {
               className={`tab-item ${selectedTab === index ? 'btn btn-primary selected' : 'btn btn-circular btn-info'}`}
               key={index}
               onClick={() => onTabChange(index)}>
-              <div className="tab-item-icon">
+              <span className="tab-item-icon">
                 <i className={`fa fa-${option.icon}`}></i>
-              </div>
+              </span>
               {selectedTab === index &&
-                <div className="tab-item-name">
+                <span className="tab-item-name">
                   {option.name}
-                </div>}
+                </span>}
             </button>
           )
         })}

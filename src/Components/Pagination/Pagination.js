@@ -1,7 +1,7 @@
 import React from 'react';
 import './Pagination.css';
 
-const Pagination = ({ pageNum = 3, length = 20, contentPerPage = 8, onPageChange }) => {
+const Pagination = ({ pageNum, length, contentPerPage, onPageChange }) => {
   const pageNumbers = Array.from({ length: Math.ceil(length / contentPerPage) }, (_, i) => i + 1);
   const _changePage = (num) => {
     if (num > 0 && num <= pageNumbers.length) {

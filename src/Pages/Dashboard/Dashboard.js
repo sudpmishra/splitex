@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './Dashboard.css';
 import logo from './../../logo.png';
 import Modal from '../../Components/Modal/Modal';
@@ -11,8 +11,15 @@ import ExpenseModalBody from '../../Components/ExpenseModalBody/ExpenseModalBody
 import ModalBody from '../../Components/ModalBody/ModalBody';
 import SettleUp from '../../Components/SettleUp/SettleUp';
 
-// const userData = jwtDecode(localStorage.getItem('auth_token')).user;
-const userData = { name: 'Sujina', username: "suzeena.mhrn@gmail.com" }
+let userData = localStorage.getItem('user_auth_token');
+try {
+  userData = jwtDecode(userData).user
+}
+catch (err) {
+  userData = null
+}
+
+
 const Dashboard = () => {
   const [slider, setSlider] = useState(false);
   const [showExpenseModal, setShowExpenseModal] = useState(false);
@@ -22,6 +29,7 @@ const Dashboard = () => {
     setExpenseModalType(type)
     setShowExpenseModal(true)
   }
+
   return (
     <>
       <header>
@@ -31,8 +39,11 @@ const Dashboard = () => {
         <div className="header-right">
           <img src='https://www.bsn.eu/wp-content/uploads/2016/12/user-icon-image-placeholder.jpg'></img>
           <div className="header-righ-info">
-            <span>{userData.name}</span>
-            <span>{userData.username}</span>
+            {userData &&
+              <>
+                <span>{userData.name}</span>
+                <span>{userData.username}</span>
+              </>}
           </div>
           <div className="header-right-icon">
             <span className='ml-10'><i className="fas fa-bell"></i></span>

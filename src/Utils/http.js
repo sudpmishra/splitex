@@ -1,5 +1,5 @@
 const root = ""
-const auth_token = localStorage.getItem("auth_token")
+const auth_token = localStorage.getItem("user_auth_token")
 export default {
     get: (url,params) => {
         url = root + url 

@@ -9,7 +9,7 @@ const Modal = ({ showSlider, setShowSlider, title, subTitle, loading, body, foot
           {title && <h4>{title}</h4>}
           {subTitle && <h5>{subTitle}</h5>}
           <span className='close-icon-container' onClick={e => setShowSlider(false)}>
-            X
+            <i className='fa fa-times'></i>
           </span>
         </div>
         <hr />

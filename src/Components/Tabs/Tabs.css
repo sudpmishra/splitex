@@ -5,8 +5,11 @@
 }
 .tabs .tab-item {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin-right: 10px;
     transition: all 1s ease-in-out;
+}
+.tab-item .tab-item-name{
+    margin-left: 5px;
 }

@@ -5,11 +5,16 @@ import Dashboard from './Pages/Dashboard/Dashboard';
 import Login from './Pages/Login/Login';
 import ComponentsExamples from './Pages/ComponentsExamples/ComponentsExamples';
 import ForgotPassword from './Pages/ForgotPassword/ForgotPassword';
+import jwtDecode from 'jwt-decode';
 
 function App() {
-    // var auth_token = localStorage.getItem("auth_token");
-    // auth_token = auth_token !== 'undefined' && auth_token !== 'null' && auth_token !== '' ? auth_token : null;
-    var auth_token = 1;
+    var auth_token = localStorage.getItem("user_auth_token");
+    try {
+        auth_token = auth_token = jwtDecode(auth_token)
+    }
+    catch (err) {
+        auth_token = null
+    }
     return (
         <BrowserRouter>
             <Routes>
