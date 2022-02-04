@@ -1,24 +1,42 @@
-.btn-strip{
+.btn-strip {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.btn-strip .btn-left, .btn-strip .btn-right{
+.btn-strip .btn-left,
+.btn-strip .btn-right {
     display: flex;
     justify-content: start;
     align-items: center;
 }
 
-.btn-right{
+.btn-right {
     display: flex;
     justify-content: end;
     align-items: center;
     height: 40px;
-    padding-bottom: 10px;
+    position: relative;
 }
 
-.home-card .home-amt{
+.btn-right .btn{
+    z-index: 1;
+}
+.btn-right .search-container {
+    position: absolute;
+    inset: 0;
+    transition: all 0.5s ease-in;
+    opacity: 0;
+    z-index: 0;
+    overflow: hidden;
+}
+.btn-right .show-search{
+    opacity: 1;
+    z-index: 100;
+    overflow: visible;
+}
+
+.home-card .home-amt {
     border-bottom: 1px solid var(--dark-1);
     display: flex;
     justify-content: space-between;

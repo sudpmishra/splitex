@@ -2,14 +2,14 @@
     width: 100%;
     height: 40px;
     background: transparent;
-    border-radius: 30px;
+    border-radius: 20px;
     z-index: 30;
     position: relative;
 }
 .searchbar-container {
     width: 100%;
     background: var(--white-1);
-    border-radius: 30px;
+    border-radius: 20px;
     position: absolute;
     overflow: hidden;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
@@ -20,8 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 3em;
-    border-radius: 1.5em;
+    height: 2.5em;
 }
 
 .searchbar-container .searchbar-container-input input {
@@ -40,9 +39,12 @@
     width: 100%;
     overflow-y: scroll;
     background-color: #fff;
-    padding: 0px 2em;
+    padding: 0px 1.6em;
     transition: all 0.5s ease-in-out;
     max-height: 0vh;
+}
+.searchbar-container .searchbar-options-container .card-body{
+    padding: .5em;
 }
 
 .searchbar-container .searchbar-options-container .img-container img {
@@ -56,5 +58,5 @@
 }
 .searchbar-container .show {
     max-height: 30vh;
-    padding: 2em;
+    padding-bottom: 10px;
 }

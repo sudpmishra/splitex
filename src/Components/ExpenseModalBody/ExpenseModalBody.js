@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './ExpenseModalBody.css';
 import Inputs from '../../Components/Inputs/Inputs';
 import userList from '../../MockData/friend.json';
@@ -10,8 +10,15 @@ const ExpenseModalBody = ({ }) => {
   const [paidBy, setPaidBy] = useState('');
   const [receipt, setReceipt] = useState('');
   const [amount, setAmount] = useState();
-  const [splitEvenly, setSplitEvenly] = useState('');
+  const [splitEvenly, setSplitEvenly] = useState('Split Evenly');
   const [eachSplitAmount, setEachSplitAmount] = useState([]);
+
+  useEffect(() => {
+    const eachAmount = (parseInt(amount) / (peopleInvolved.length + 1)).toFixed(2);
+    setEachSplitAmount([{ name: "you", amount: eachAmount }, ...peopleInvolved.map(person => { return { name: person.name, amount: eachAmount } })])
+
+  }, [splitEvenly])
+
   const _setSplitAmount = (index, e) => {
     var eachSplitAmountCopy = [...eachSplitAmount]
     const name = index === 0 ? 'You' : peopleInvolved[index - 1].name
@@ -84,29 +91,34 @@ const ExpenseModalBody = ({ }) => {
               options={[{ name: 'Dont Split Evenly' }, { name: 'Split Evenly' }]}
             />
           </div>
-          <div className="col-12 split-bill">
-            <span>Split Bill</span>
-          </div>
-          <div className="col-6">
-            <Inputs.TextBox
-              value={eachSplitAmount[0]}
-              setValue={e => _setSplitAmount(0, e)}
-              type="number"
-              label="You"
-            />
-          </div>
-          {peopleInvolved.map((people, index) => {
-            return (
+          {splitEvenly === 'Dont Split Evenly' &&
+            <>
+              <div className="col-12 split-bill">
+                <span>Split Bill</span>
+              </div>
               <div className="col-6">
                 <Inputs.TextBox
-                  value={eachSplitAmount[index + 1]}
-                  setValue={e => _setSplitAmount(index + 1, e)}
+                  value={eachSplitAmount[0] ? eachSplitAmount[0].amount : 0}
+                  setValue={e => _setSplitAmount(0, e)}
                   type="number"
-                  label={people.name}
+                  label="You"
                 />
               </div>
-            )
-          })}
+              {peopleInvolved.map((people, index) => {
+                return (
+                  <div className="col-6" key={index}>
+                    <Inputs.TextBox
+                      value={eachSplitAmount[index + 1] ? eachSplitAmount[index + 1].amount : 0}
+                      setValue={e => _setSplitAmount(index + 1, e)}
+                      type="number"
+                      label={people.name}
+                    />
+                  </div>
+                )
+              })}
+              {(parseInt(amount) !== eachSplitAmount.reduce((a, b) => a + parseInt(b.amount), 0)) && <div className='col-12 error-message'>Total Amount does not match the split bill amount.</div>}
+            </>
+          }
         </div>
       </div>
     </div>

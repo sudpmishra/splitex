@@ -29,6 +29,7 @@
 .input-container .label-alt {
     font-size: 0.7em;
     top: 0em;
+    white-space: nowrap;
 }
 
 .input-container input,
@@ -38,6 +39,7 @@
 .input-container .radio-input,
 .image-upload .image-upload-label {
     min-height: 100%;
+    width: 100%;
     border: 0px;
     outline: 0px;
     margin-top: 10px;
@@ -128,4 +130,13 @@
 
 .multi-select-container-input .show {
     display: block;
+}
+.modal-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-body img{
+    height: 45vh;
+    max-width: 100%;
 }

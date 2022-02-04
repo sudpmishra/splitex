@@ -34,6 +34,10 @@ iframe{
   background-color: var(--primary);
   color: var(--white-1);
 }
+.btn-primary:hover, .btn-primary:focus{
+  background-color: var(--primary);
+  color: var(--white-1);
+}
 
 .btn-secondary{
   background-color: var(--secondary);
@@ -78,3 +82,9 @@ iframe{
   border-radius: 20px;
 }
 
+.error-message{
+  text-align: center;
+  color: var(--danger);
+  font-size: 0.8em;
+  margin-top: 5px;
+}
