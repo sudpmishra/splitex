@@ -10,6 +10,7 @@ import userList from '../../MockData/friend.json';
 import ExpenseModalBody from '../../Components/ExpenseModalBody/ExpenseModalBody';
 import ModalBody from '../../Components/ModalBody/ModalBody';
 import SettleUp from '../../Components/SettleUp/SettleUp';
+import UserService from '../../Services/UserService';
 
 let userData = localStorage.getItem('user_auth_token');
 try {
@@ -24,34 +25,44 @@ const Dashboard = () => {
   const [slider, setSlider] = useState(false);
   const [showExpenseModal, setShowExpenseModal] = useState(false);
   const [expenseModalType, setExpenseModalType] = useState('ADD');
+  const [settleUpSlider, setSettleUpSlider] = useState(false);
   const [settleUp, setSettleUp] = useState(false);
   const _openExpenseModal = (type) => {
     setExpenseModalType(type)
     setShowExpenseModal(true)
   }
+  const _showNotification = () => {
+    alert("TODO show notification")
+  }
+  const _logout = () => {
+    alert("logout")
+    UserService.logout()
+  }
 
   return (
     <>
       <header>
-        <div className="header-img">
-          <img src={logo}></img>
-        </div>
-        <div className="header-right">
-          <img src='https://www.bsn.eu/wp-content/uploads/2016/12/user-icon-image-placeholder.jpg'></img>
-          <div className="header-righ-info">
-            {userData &&
-              <>
-                <span>{userData.name}</span>
-                <span>{userData.username}</span>
-              </>}
+        <div className='header'>
+          <div className="header-img">
+            <img src={logo}></img>
           </div>
-          <div className="header-right-icon">
-            <span className='ml-10'><i className="fas fa-bell"></i></span>
-            <span className='ml-10'><i className="fas fa-sign-out-alt"></i></span>
+          <div className="header-right">
+            <img src='https://www.bsn.eu/wp-content/uploads/2016/12/user-icon-image-placeholder.jpg'></img>
+            <div className="header-righ-info">
+              {userData &&
+                <>
+                  <span>{userData.name}</span>
+                  <span>{userData.username}</span>
+                </>}
+            </div>
+            <div className="header-right-icon">
+              <button className='btn btn-circular header-btn ml-10' onClick={_showNotification}><i className="fas fa-bell"></i></button>
+              <button className='btn btn-circular header-btn ml-10' onClick={_logout}><i className="fas fa-sign-out-alt"></i></button>
+            </div>
           </div>
         </div>
+        <hr />
       </header>
-      <hr />
       <div className="content">
         <div className="row">
           <div className="col-8">
@@ -60,7 +71,8 @@ const Dashboard = () => {
               setShowAddExpenseModal={() => _openExpenseModal('ADD')}
               setShowEditExpenseModal={() => _openExpenseModal('EDIT')}
               setShowViewExpenseModal={() => _openExpenseModal('VIEW')}
-              setShowSettleUpModal={() => setSettleUp(true)} />
+              setShowSettleUpModal={() => setSettleUp(true)}
+              setSettleUpSlider={setSettleUpSlider} />
           </div>
           <div className="col-4">
             <FriendList />
@@ -79,7 +91,7 @@ const Dashboard = () => {
         showSlider={showExpenseModal}
         setShowSlider={setShowExpenseModal}
         title='ADD NEW EXPENSE'
-        subTitle='gsg'
+        // subTitle='gsg'
         loading={false}
         body={<ExpenseModalBody />}
         footer={<FooterExpenseModal />} />

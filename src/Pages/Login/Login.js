@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import UserService from '../../Services/UserService'
 import http from '../../Utils/http'
 import "./Login.css"
 import logo from './../../logo.png'
@@ -20,15 +21,10 @@ export default function Login() {
     const [formType, setFormType] = useState("LOGIN")
     const [message, setMessage] = useState(INITIAL_MESSAGE)
     const _login = () => {
-        http.post("api/auth/login", {
-            "username": email,
-            "password": password
+        UserService.login({
+            email,
+            password
         })
-            .then((res) => {
-                localStorage.setItem("user_auth_token", res.token)
-                localStorage.setItem("refresh_token", res.refreshToken)
-                res.token && window.location.reload()
-            })
     }
     const _register = () => {
         http.post("api/auth/register", {

@@ -5,7 +5,7 @@ import Pagination from '../Pagination/Pagination';
 import './DashboardFeed.css';
 
 const tabOptions = [{ name: 'Home', icon: 'home' }, { name: 'About', icon: 'receipt' }, { name: 'Contact', icon: 'history' }, , { name: 'Contact', icon: 'chart-line' }];
-const DashboardFeed = ({setSlider,setShowAddExpenseModal,setShowEditExpenseModal,setShowViewExpenseModal,setShowSettleUpModal}) => {
+const DashboardFeed = ({setSlider,setShowAddExpenseModal,setShowEditExpenseModal,setShowViewExpenseModal,setShowSettleUpModal, setSettleUpSlider}) => {
   const [selectedTab, setSelectedTab] = useState(0);
   const [feedData, setFeedData] = useState([]);
   const [totalAmount, setTotalAmount] = useState(0);
@@ -40,10 +40,10 @@ const DashboardFeed = ({setSlider,setShowAddExpenseModal,setShowEditExpenseModal
           <div className="col-12">
             <div className="home-amt mb-10">
               <h3>Home</h3>
-              <h6 className='amt-owed'>${totalAmount}</h6>
+              <h6 className='amt-owed'><b>रु {totalAmount}</b></h6>
             </div>
           </div>
-          {feedData.slice(page * 6 - 6, page * 6).map((data, index) => <EachCard key={index} setSlider={setSlider} data={data} />)}
+          {feedData.slice(page * 6 - 6, page * 6).map((data, index) => <EachCard key={index} setSlider={setSlider} data={data} setSettleUpSlider={setSettleUpSlider} setShowViewExpenseModal={setShowViewExpenseModal}/>)}
           <div className="col-12 d-flex justify-content-end align-items-center">
             <Pagination pageNum={page} length={feedData.length} contentPerPage={6} onPageChange={setPage} />
           </div>

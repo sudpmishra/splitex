@@ -108,6 +108,7 @@
 
 .multi-select-container-input input {
     background-color: inherit;
+    width: auto;
     padding-left: 10px;
 }
 .multi-select-container-input .multi-select-options-container .multi-select-option-dropdown {

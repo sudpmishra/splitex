@@ -11,8 +11,8 @@ const Modal = ({ showSlider, setShowSlider, title, subTitle, loading, body, foot
           <span className='close-icon-container' onClick={e => setShowSlider(false)}>
             <i className='fa fa-times'></i>
           </span>
+          <hr />
         </div>
-        <hr />
         {
           loading ? "loading..." :
             <>

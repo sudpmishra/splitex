@@ -1,0 +1,1507 @@
+[
+    {
+        "id": "6203dd12c3a715aa49e16ee2",
+        "amount": 563.14,
+        "date": "12 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8a42864ee509239996",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 112.628
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 112.628
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 112.628
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 112.628
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 112.628
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd129a2d79f066f618d4",
+        "amount": 740.62,
+        "date": "07 Feb,2022",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ae67d78abd1f622d6",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ae67d78abd1f622d6",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 185.155
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 185.155
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 185.155
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 185.155
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd12f829f8b13fde598c",
+        "amount": 963.06,
+        "date": "31 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a42864ee509239996",
+            "61f2de8ad0f71afd1b171292",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 192.612
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 192.612
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 192.612
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 192.612
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 192.612
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd12ce71b112572c4249",
+        "amount": 740.17,
+        "date": "03 Feb,2022",
+        "peopleInvolved": [
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a55d0c29ed92b2dc0",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 185.0425
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 185.0425
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 185.0425
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 185.0425
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd121f845b7251ee50ff",
+        "amount": 445.89,
+        "date": "05 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8a42864ee509239996",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ad0f71afd1b171292",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 74.315
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 74.315
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 74.315
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 74.315
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 74.315
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 74.315
+            }
+        ],
+        "title": "Utilities"
+    },
+    {
+        "id": "6203dd12410e1a9aa3802a2a",
+        "amount": 587.92,
+        "date": "10 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a2b59529b181b0ca8",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 117.58399999999999
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 117.58399999999999
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 117.58399999999999
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 117.58399999999999
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 117.58399999999999
+            }
+        ],
+        "title": "Entertainment"
+    },
+    {
+        "id": "6203dd127c30b93a9f6b77c9",
+        "amount": 235.22,
+        "date": "05 Feb,2022",
+        "peopleInvolved": [
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a42864ee509239996",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 58.805
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 58.805
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 58.805
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 58.805
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd12753ac34bdc256fae",
+        "amount": 980.09,
+        "date": "15 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8a42864ee509239996",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a55d0c29ed92b2dc0",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 163.34833333333333
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 163.34833333333333
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 163.34833333333333
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 163.34833333333333
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 163.34833333333333
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 163.34833333333333
+            }
+        ],
+        "title": "Utilities"
+    },
+    {
+        "id": "6203dd1271aea5b42b905ea4",
+        "amount": 376.2,
+        "date": "18 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8a2b59529b181b0ca8",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 75.24
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 75.24
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 75.24
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 75.24
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 75.24
+            }
+        ],
+        "title": "Clothes"
+    },
+    {
+        "id": "6203dd12978bbc1fed221e24",
+        "amount": 839.57,
+        "date": "28 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8ac116a5c9f1714b22",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 279.8566666666667
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 279.8566666666667
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 279.8566666666667
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd1282a6b8af9d8f2d21",
+        "amount": 356.96,
+        "date": "09 Feb,2022",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a42864ee509239996",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ac94dcea7636ebe3d",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 71.392
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 71.392
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 71.392
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 71.392
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 71.392
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd12da64d5af4850a71c",
+        "amount": 352.01,
+        "date": "07 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8ad0f71afd1b171292",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac116a5c9f1714b22",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 88.0025
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 88.0025
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 88.0025
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 88.0025
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd1231ffe7e16254d8fb",
+        "amount": 582.17,
+        "date": "03 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a2b59529b181b0ca8",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ad0f71afd1b171292",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 97.02833333333332
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 97.02833333333332
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 97.02833333333332
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 97.02833333333332
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 97.02833333333332
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 97.02833333333332
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd12e45ee177341d6211",
+        "amount": 372.31,
+        "date": "25 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8aaf3fbf586e153401",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ad0f71afd1b171292",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 93.0775
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 93.0775
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 93.0775
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 93.0775
+            }
+        ],
+        "title": "Food"
+    },
+    {
+        "id": "6203dd124c13915d3ba0da41",
+        "amount": 543.83,
+        "date": "27 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8a42864ee509239996",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a55d0c29ed92b2dc0",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 90.63833333333334
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 90.63833333333334
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 90.63833333333334
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 90.63833333333334
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 90.63833333333334
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 90.63833333333334
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd12c16ce7fca8256b99",
+        "amount": 491.18,
+        "date": "27 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8a42864ee509239996",
+            "61f2de8ad0f71afd1b171292",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a2b59529b181b0ca8",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 122.795
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 122.795
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 122.795
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 122.795
+            }
+        ],
+        "title": "Clothes"
+    },
+    {
+        "id": "6203dd120b25240d7cea8239",
+        "amount": 615.7,
+        "date": "06 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a42864ee509239996",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a07445551611a7b9b",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 102.61666666666667
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 102.61666666666667
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 102.61666666666667
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 102.61666666666667
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 102.61666666666667
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 102.61666666666667
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd12ff6da2b36a93bd49",
+        "amount": 916.05,
+        "date": "04 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ac94dcea7636ebe3d",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8aaf3fbf586e153401",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 229.0125
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 229.0125
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 229.0125
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 229.0125
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd12c8b7c67e81bece4f",
+        "amount": 244.77,
+        "date": "21 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8a42864ee509239996",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8ad0f71afd1b171292",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ad0f71afd1b171292",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 34.96714285714286
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 34.96714285714286
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 34.96714285714286
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 34.96714285714286
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 34.96714285714286
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 34.96714285714286
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 34.96714285714286
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd1289fb20dfa331596d",
+        "amount": 772.07,
+        "date": "08 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8a2b59529b181b0ca8",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ad0f71afd1b171292",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 193.0175
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 193.0175
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 193.0175
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 193.0175
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd12fa521e9943ed7c75",
+        "amount": 683.55,
+        "date": "11 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8ae67d78abd1f622d6",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 170.8875
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 170.8875
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 170.8875
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 170.8875
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd12f89e87963db8e98b",
+        "amount": 984.68,
+        "date": "08 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8a07445551611a7b9b",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 164.11333333333332
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 164.11333333333332
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 164.11333333333332
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 164.11333333333332
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 164.11333333333332
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 164.11333333333332
+            }
+        ],
+        "title": "Food"
+    },
+    {
+        "id": "6203dd12ff85d46287fab1ae",
+        "amount": 987.33,
+        "date": "27 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ad0f71afd1b171292",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ae67d78abd1f622d6",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 197.466
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 197.466
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 197.466
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 197.466
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 197.466
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd129a24b5c6ecd25908",
+        "amount": 443.42,
+        "date": "26 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8ae67d78abd1f622d6",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a2b59529b181b0ca8",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 110.855
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 110.855
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 110.855
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 110.855
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd12d1e12c2ed28d8098",
+        "amount": 690.45,
+        "date": "15 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8a2b59529b181b0ca8",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ae67d78abd1f622d6",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 230.15
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 230.15
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 230.15
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd122abccb7c758051fa",
+        "amount": 965.31,
+        "date": "30 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8a42864ee509239996",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac116a5c9f1714b22",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 193.06199999999998
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 193.06199999999998
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 193.06199999999998
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 193.06199999999998
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 193.06199999999998
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd127df145f6725166a7",
+        "amount": 828.64,
+        "date": "14 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 276.2133333333333
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 276.2133333333333
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 276.2133333333333
+            }
+        ],
+        "title": "Utilities"
+    },
+    {
+        "id": "6203dd124d5beec40ae8e7d2",
+        "amount": 446.56,
+        "date": "17 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8a07445551611a7b9b",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a42864ee509239996",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 111.64
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 111.64
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 111.64
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 111.64
+            }
+        ],
+        "title": "Utilities"
+    },
+    {
+        "id": "6203dd127b53423d327cfc77",
+        "amount": 371.5,
+        "date": "16 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a55d0c29ed92b2dc0",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 61.916666666666664
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 61.916666666666664
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 61.916666666666664
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 61.916666666666664
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 61.916666666666664
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 61.916666666666664
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd128af376faa38d01dc",
+        "amount": 789.94,
+        "date": "07 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac116a5c9f1714b22",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 197.485
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 197.485
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 197.485
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 197.485
+            }
+        ],
+        "title": "Food"
+    },
+    {
+        "id": "6203dd1282c607b6feb90e3f",
+        "amount": 667.24,
+        "date": "26 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8ae67d78abd1f622d6",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ad0f71afd1b171292",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 111.20666666666666
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 111.20666666666666
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 111.20666666666666
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 111.20666666666666
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 111.20666666666666
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 111.20666666666666
+            }
+        ],
+        "title": "Entertainment"
+    },
+    {
+        "id": "6203dd1221148eff90004dbb",
+        "amount": 703.85,
+        "date": "23 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a07445551611a7b9b",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8a55d0c29ed92b2dc0",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 100.55
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 100.55
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 100.55
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 100.55
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 100.55
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 100.55
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 100.55
+            }
+        ],
+        "title": "Entertainment"
+    },
+    {
+        "id": "6203dd12e59d84868025e730",
+        "amount": 215.84,
+        "date": "23 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8a42864ee509239996",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8ae67d78abd1f622d6",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 35.973333333333336
+            },
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 35.973333333333336
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 35.973333333333336
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 35.973333333333336
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 35.973333333333336
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 35.973333333333336
+            }
+        ],
+        "title": "Utilities"
+    },
+    {
+        "id": "6203dd12663494764336cfd5",
+        "amount": 172.94,
+        "date": "03 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8a07445551611a7b9b",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8aaf3fbf586e153401",
+        "splitEvenly": true,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 28.823333333333334
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 28.823333333333334
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 28.823333333333334
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 28.823333333333334
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 28.823333333333334
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 28.823333333333334
+            }
+        ],
+        "title": "Food"
+    },
+    {
+        "id": "6203dd12484f8b445f32fd3c",
+        "amount": 441.8,
+        "date": "22 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8a42864ee509239996",
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8a07445551611a7b9b",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8a42864ee509239996",
+                "amount": 88.36
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 88.36
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 88.36
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 88.36
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 88.36
+            }
+        ],
+        "title": "Transportation"
+    },
+    {
+        "id": "6203dd125ae1f2923dafd6b4",
+        "amount": 402.38,
+        "date": "02 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac94dcea7636ebe3d",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8ac116a5c9f1714b22",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8ac94dcea7636ebe3d",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://i0.wp.com/www.thetimesofbengal.com/wp-content/uploads/2021/10/Untitled-17-630x420.jpg?fit=630%2C420&ssl=1",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 67.06333333333333
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 67.06333333333333
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 67.06333333333333
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 67.06333333333333
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 67.06333333333333
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 67.06333333333333
+            }
+        ],
+        "title": "Utilities"
+    },
+    {
+        "id": "6203dd12f8227609209f4e14",
+        "amount": 880.59,
+        "date": "08 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8ad0f71afd1b171292",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "6203ddcbfee5e5f783ca7b1e",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 220.1475
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 220.1475
+            },
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 220.1475
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 220.1475
+            }
+        ],
+        "title": "Other"
+    },
+    {
+        "id": "6203dd1292753450c073cc75",
+        "amount": 441.91,
+        "date": "24 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ad0f71afd1b171292",
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8ac94dcea7636ebe3d",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a55d0c29ed92b2dc0",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media.istockphoto.com/vectors/realistic-paper-shop-receipt-vector-cashier-bill-on-white-background-vector-id889405434?k=20&m=889405434&s=612x612&w=0&h=rjD4g1QamuHPz9wxmw6tfiA88L-qbSwI_-8bMl748uw=",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ad0f71afd1b171292",
+                "amount": 88.382
+            },
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 88.382
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 88.382
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 88.382
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 88.382
+            }
+        ],
+        "title": "Food"
+    },
+    {
+        "id": "6203dd1243c9e3675df1e517",
+        "amount": 862.71,
+        "date": "18 Jan,2022",
+        "peopleInvolved": [
+            "61f2de8ac116a5c9f1714b22",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8ae67d78abd1f622d6",
+            "61f2de8a07445551611a7b9b",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8a2b59529b181b0ca8",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://media-cdn.tripadvisor.com/media/photo-s/1b/d4/24/99/restaurant-bill.jpg",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8ac116a5c9f1714b22",
+                "amount": 143.785
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 143.785
+            },
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 143.785
+            },
+            {
+                "id": "61f2de8ae67d78abd1f622d6",
+                "amount": 143.785
+            },
+            {
+                "id": "61f2de8a07445551611a7b9b",
+                "amount": 143.785
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 143.785
+            }
+        ],
+        "title": "Food"
+    },
+    {
+        "id": "6203dd12c870fdfd44045784",
+        "amount": 344.12,
+        "date": "14 Dec,2021",
+        "peopleInvolved": [
+            "61f2de8aaf3fbf586e153401",
+            "61f2de8a2b59529b181b0ca8",
+            "61f2de8a55d0c29ed92b2dc0",
+            "61f2de8ac94dcea7636ebe3d",
+            "6203ddcbfee5e5f783ca7b1e"
+        ],
+        "paidBy": "61f2de8aaf3fbf586e153401",
+        "splitEvenly": false,
+        "receiptImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mJfKCBSeI8nFm4u0diD8Tx6b-HcKc9esvw&usqp=CAU",
+        "eachSplitAmount": [
+            {
+                "id": "61f2de8aaf3fbf586e153401",
+                "amount": 68.824
+            },
+            {
+                "id": "61f2de8a2b59529b181b0ca8",
+                "amount": 68.824
+            },
+            {
+                "id": "61f2de8a55d0c29ed92b2dc0",
+                "amount": 68.824
+            },
+            {
+                "id": "61f2de8ac94dcea7636ebe3d",
+                "amount": 68.824
+            },
+            {
+                "id": "6203ddcbfee5e5f783ca7b1e",
+                "amount": 68.824
+            }
+        ],
+        "title": "Clothes"
+    }
+]

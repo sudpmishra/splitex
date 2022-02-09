@@ -1,17 +1,16 @@
 header{
     background: var(--white-2);
+}
+.header{
     display: flex;
     justify-content: space-between;
     height:100px; 
     overflow:hidden;
-
 }
 hr{
-    position: absolute;
-    top: 82px;
-    left:0px;
-    border-bottom: 1px solid var(--dark-3);
-    width: 100%;
+    height: 1px;
+    margin: 0px;
+    border: 0px;
 }
 
 .header-img img{
@@ -36,6 +35,10 @@ hr{
 .header-right .header-righ-info{
     display: flex;
     flex-direction: column;
+}
+.header-right-icon .header-btn:hover,
+.header-right-icon .header-btn:focus{
+    color: var(--primary);
 }
 .header-right .header-right-icon{
     display: flex;
