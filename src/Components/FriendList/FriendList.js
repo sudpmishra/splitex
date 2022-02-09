@@ -1,11 +1,16 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import EachFriend from '../EachFriend/EachFriend';
 import './FriendList.css';
-import friendData from "./../../MockData/friend.json"
 import SearchBar from '../SearchBar/SearchBar';
+import FriendService from '../../Services/FriendService';
 
 const FriendList = () => {
   const [showSearch, setShowSearch] = useState(false);
+  const [friendData, setFriendData] = useState([])
+  useEffect(() => {
+    FriendService.getFriendList(setFriendData)
+  }, [])
+  
   return (
     <>
       <div className="row">

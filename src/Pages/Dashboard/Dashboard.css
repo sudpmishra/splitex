@@ -59,6 +59,7 @@ footer{
     background-color: var(--bg-color);
 }
 
+
 .home-card, .friend-card{
     background-color: var(--white-2);
     border-radius: 5px;
@@ -68,6 +69,11 @@ footer{
     max-height: calc(100vh - 205px);
     overflow: hidden;
 }
+
+.home-card{
+    overflow: scroll;
+}
+
 .friend-card-data{
     max-height: calc(100vh - 290px);
     overflow: scroll;

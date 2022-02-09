@@ -27,24 +27,16 @@ export default function Login() {
         })
     }
     const _register = () => {
-        http.post("api/auth/register", {
-            "name": userName,
-            "password": password,
-            "username": email
-        })
-            .then(() => {
-                setFormType("LOGIN")
-            })
+        UserService.register({
+            email,
+            password,
+            userName
+        },setFormType)
     }
     const _send_email = () => {
-        http.post("api/auth/forgot-password", {
-            "email": email
-        })
-            .then(() => {
-                setMessage("An email has been sent to you with instructions to reset your password")
-            }).catch((err) => {
-                setMessage(err.response.data.message)
-            })
+        UserService.send_email({
+            email
+        },setMessage)
     }
 
     const _setLoginValue = (type) => {

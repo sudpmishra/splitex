@@ -15,5 +15,25 @@ class UserService {
         localStorage.setItem("user_auth_token", null);
         window.location.reload();
     }
+    static register = (params,setFormType)=>{
+        http.post("api/auth/register", {
+            "name": params.userName,
+            "password": params.password,
+            "username": params.email
+        })
+            .then(() => {
+                setFormType("LOGIN")
+            })
+    }
+    static send_email = (params,setMessage)=>{
+        http.post("api/auth/forgot-password", {
+            "email": params.email
+        })
+            .then(() => {
+                setMessage("An email has been sent to you with instructions to reset your password")
+            }).catch((err) => {
+                setMessage(err.response.data.message)
+            })
+    }
 }
 export default UserService;

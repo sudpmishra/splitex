@@ -6,7 +6,6 @@ import DashboardFeed from '../../Components/DashboardFeed/DashboardFeed';
 import FriendList from '../../Components/FriendList/FriendList';
 import jwtDecode from 'jwt-decode';
 import Inputs from '../../Components/Inputs/Inputs';
-import userList from '../../MockData/friend.json';
 import ExpenseModalBody from '../../Components/ExpenseModalBody/ExpenseModalBody';
 import ModalBody from '../../Components/ModalBody/ModalBody';
 import SettleUp from '../../Components/SettleUp/SettleUp';
@@ -27,6 +26,7 @@ const Dashboard = () => {
   const [expenseModalType, setExpenseModalType] = useState('ADD');
   const [settleUpSlider, setSettleUpSlider] = useState(false);
   const [settleUp, setSettleUp] = useState(false);
+  const [notifications, setNotifications] = useState(false);
   const _openExpenseModal = (type) => {
     setExpenseModalType(type)
     setShowExpenseModal(true)
@@ -91,7 +91,6 @@ const Dashboard = () => {
         showSlider={showExpenseModal}
         setShowSlider={setShowExpenseModal}
         title='ADD NEW EXPENSE'
-        // subTitle='gsg'
         loading={false}
         body={<ExpenseModalBody />}
         footer={<FooterExpenseModal />} />
@@ -99,7 +98,13 @@ const Dashboard = () => {
         showSlider={settleUp}
         setShowSlider={setSettleUp}
         title='SETTLE UP'
-        subTitle='gsg'
+        loading={false}
+        body={<SettleUp />}
+        footer={<FooterSettleUp />} />
+        <Modal
+        showSlider={notifications}
+        setShowSlider={setNotifications}
+        title='SETTLE UP'
         loading={false}
         body={<SettleUp />}
         footer={<FooterSettleUp />} />

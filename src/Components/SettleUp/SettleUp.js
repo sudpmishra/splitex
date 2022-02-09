@@ -1,12 +1,19 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
+import TransactionService from '../../Services/TransactionService';
 import Inputs from '../Inputs/Inputs';
 import './SettleUp.css';
-import settleUpData from '../../MockData/settleup.json';
+// import settleUpData from '../../MockData/settleup.json';
 
 
 const SettleUp = () => {
   const [settleWith, setSettleWith] = useState('');
   const [settleExpense, setSettleExpense] = useState('');
+  const [settleUpData, setSettleUpData] = useState([])
+
+  useEffect(() => {
+    TransactionService.getSettleUpData(setSettleUpData)  
+  }, [])
+  
   return (
     <>
       <div className="row">

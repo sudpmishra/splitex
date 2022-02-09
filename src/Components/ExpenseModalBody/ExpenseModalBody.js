@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './ExpenseModalBody.css';
 import Inputs from '../../Components/Inputs/Inputs';
-import userList from '../../MockData/friend.json';
+import FriendService from '../../Services/FriendService';
 
 const ExpenseModalBody = ({ }) => {
   const [title, setTitle] = useState("")
@@ -12,6 +12,11 @@ const ExpenseModalBody = ({ }) => {
   const [amount, setAmount] = useState();
   const [splitEvenly, setSplitEvenly] = useState('Split Evenly');
   const [eachSplitAmount, setEachSplitAmount] = useState([]);
+  const [userList,setUserList] = useState([])
+
+  useEffect(()=>{
+    FriendService.getFriendList(setUserList)
+  },[])
 
   useEffect(() => {
     const eachAmount = (parseInt(amount) / (peopleInvolved.length + 1)).toFixed(2);
@@ -116,7 +121,7 @@ const ExpenseModalBody = ({ }) => {
                   </div>
                 )
               })}
-              {(parseInt(amount) !== eachSplitAmount.reduce((a, b) => a + parseInt(b.amount), 0)) && <div className='col-12 error-message'>Total Amount does not match the split bill amount.</div>}
+              {(parseFloat(amount) !== Math.round(eachSplitAmount.reduce((a, b) => a + parseFloat(b.amount), 0))) && <div className='col-12 error-message'>Total Amount does not match the split bill amount.</div>}
             </>
           }
         </div>
