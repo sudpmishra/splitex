@@ -10,6 +10,7 @@ import ExpenseModalBody from '../../Components/ExpenseModalBody/ExpenseModalBody
 import ModalBody from '../../Components/ModalBody/ModalBody';
 import SettleUp from '../../Components/SettleUp/SettleUp';
 import UserService from '../../Services/UserService';
+import NotificationModal from '../../Components/NotificaionModal/NotificaionModal'
 
 let userData = localStorage.getItem('user_auth_token');
 try {
@@ -32,7 +33,8 @@ const Dashboard = () => {
     setShowExpenseModal(true)
   }
   const _showNotification = () => {
-    alert("TODO show notification")
+    // alert("TODO show notification")
+    setNotifications(true)
   }
   const _logout = () => {
     alert("logout")
@@ -104,10 +106,10 @@ const Dashboard = () => {
         <Modal
         showSlider={notifications}
         setShowSlider={setNotifications}
-        title='SETTLE UP'
+        title='NOTIFICATIONS'
         loading={false}
-        body={<SettleUp />}
-        footer={<FooterSettleUp />} />
+        size = 'small'
+        body={<NotificationModal />} />
       <footer>
         <span>Copyright 2022, SplitEx</span>
       </footer>
@@ -118,19 +120,20 @@ const Dashboard = () => {
 
 const FooterExpenseModal = () => {
   return (
-    <div className='footer'>
-      <button className='footer-cancel'><i className="fas fa-trash"></i> Cancel</button>
-      <button className='footer-save'><i className="fas fa-save"></i> Save</button>
+    <div className='footer d-flex align-items-center justify-content-end'>
+      <button className='btn btn-danger footer-cancel mr-10'><i className="fas fa-trash"></i><span className='ml-10'>Cancel</span></button>
+      <button className='btn btn-success footer-save mr-10'><i className="fas fa-save"></i><span className='ml-10'>Save</span></button>
     </div>
   )
 }
 
 const FooterSettleUp = () => {
   return (
-    <div className='footer'>
-      <button className='footer-cancel'><i className="fa fa-times" aria-hidden="true"></i> Cancel</button>
-      <button className='footer-save'><i className="fas fa-handshake"></i> Save</button>
+    <div className='footer d-flex align-items-center justify-content-end'>
+      <button className='btn btn-danger footer-cancel mr-10'><i className="fa fa-times" aria-hidden="true"></i><span className='ml-10'>Cancel</span></button>
+      <button className='btn btn-success footer-save mr-10'><i className="fas fa-handshake"></i><span className='ml-10'>Save</span></button>
     </div>
   )
 }
+
 export default Dashboard;

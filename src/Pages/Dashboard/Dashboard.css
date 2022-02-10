@@ -125,29 +125,3 @@ footer{
     margin: 20px;
     border-bottom: 1px solid var(--dark-3);
 }
-
-.footer{
-    display: flex;
-    justify-content: end;
-    align-items: flex-end;
-}
-
-.footer .footer-cancel{
-    border-radius: 50px;
-    background-color: var(--danger);
-    color: var(--white-2);
-    border: 0px;
-    padding: 5px 10px;
-    margin: 10px;
-    font-size: smaller;
-}
-
-.footer .footer-save{
-    border-radius: 50px;
-    background-color: var(--success);
-    color: var(--white-2);
-    border: 0px;
-    padding: 5px 10px;
-    margin: 10px;
-    font-size: smaller;
-}
