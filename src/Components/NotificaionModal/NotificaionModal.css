@@ -1,0 +1,18 @@
+.btn-clear, .btn-view, .btn-confirm {
+    font-size: 12px;
+}
+
+.notif-card {
+    background-color: var(--white-2);
+    border: 1px solid rgba(0, 0, 0, .125);
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.notif-card img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 1px solid var(--dark-1);
+}
